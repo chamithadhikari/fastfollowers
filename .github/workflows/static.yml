@@ -1,0 +1,2910 @@
+
+
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+<link rel="canonical" href="https://goread.io/buy-instagram-followers"><script>
+  !function(c,n,r,t){if(!c[r]){var i,d,p=[];d="PROD"!==t&&t?"STAGING"===t?"https://cdn.gladly.qa/gladly/chat-sdk/widget.js":t:"https://cdn.gladly.com/chat-sdk/widget.js",c[r]={init:function(){i=arguments;var e={then:function(t){return p.push({type:"t",next:t}),e},catch:function(t){return p.push({type:"c",next:t}),e}};return e}},c.__onHelpAppHostReady__=function(t){if(delete c.__onHelpAppHostReady__,(c[r]=t).loaderCdn=d,i)for(var e=t.init.apply(t,i),n=0;n<p.length;n++){var a=p[n];e="t"===a.type?e.then(a.next):e.catch(a.next)}},function(){try{var t=n.getElementsByTagName("script")[0],e=n.createElement("script");e.async=!0,e.src=d+"?q="+(new Date).getTime(),t.parentNode.insertBefore(e,t)}catch(t){}}()}}
+  (window,document,'Gladly','PROD')
+</script>
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).init={privacy:{cookies_enabled:true},ajax:{deny_list:["bam.nr-data.net"]},distributed_tracing:{enabled:true}};(window.NREUM||(NREUM={})).loader_config={agentID:"1588914626",accountID:"3756214",trustKey:"3756214",xpid:"VwECV1RSDBABUVJUBgkDUlMH",licenseKey:"NRJS-b955256cde3db8a4ff6",applicationID:"1536184476"};;/*! For license information please see nr-loader-spa-1.268.0.min.js.LICENSE.txt */
+(()=>{var e,t,r={8122:(e,t,r)=>{"use strict";r.d(t,{a:()=>i});var n=r(944);function i(e,t){try{if(!e||"object"!=typeof e)return(0,n.R)(3);if(!t||"object"!=typeof t)return(0,n.R)(4);const r=Object.create(Object.getPrototypeOf(t),Object.getOwnPropertyDescriptors(t)),o=0===Object.keys(r).length?e:r;for(let a in o)if(void 0!==e[a])try{if(null===e[a]){r[a]=null;continue}Array.isArray(e[a])&&Array.isArray(t[a])?r[a]=Array.from(new Set([...e[a],...t[a]])):"object"==typeof e[a]&&"object"==typeof t[a]?r[a]=i(e[a],t[a]):r[a]=e[a]}catch(e){(0,n.R)(1,e)}return r}catch(e){(0,n.R)(2,e)}}},2555:(e,t,r)=>{"use strict";r.d(t,{Vp:()=>c,fn:()=>s,x1:()=>u});var n=r(384),i=r(8122);const o={beacon:n.NT.beacon,errorBeacon:n.NT.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},a={};function s(e){try{const t=c(e);return!!t.licenseKey&&!!t.errorBeacon&&!!t.applicationID}catch(e){return!1}}function c(e){if(!e)throw new Error("All info objects require an agent identifier!");if(!a[e])throw new Error("Info for ".concat(e," was never set"));return a[e]}function u(e,t){if(!e)throw new Error("All info objects require an agent identifier!");a[e]=(0,i.a)(t,o);const r=(0,n.nY)(e);r&&(r.info=a[e])}},9417:(e,t,r)=>{"use strict";r.d(t,{D0:()=>h,gD:()=>p,xN:()=>g});var n=r(993);const i=e=>{if(!e||"string"!=typeof e)return!1;try{document.createDocumentFragment().querySelector(e)}catch{return!1}return!0};var o=r(2614),a=r(944),s=r(384),c=r(8122);const u="[data-nr-mask]",d=()=>{const e={mask_selector:"*",block_selector:"[data-nr-block]",mask_input_options:{color:!1,date:!1,"datetime-local":!1,email:!1,month:!1,number:!1,range:!1,search:!1,tel:!1,text:!1,time:!1,url:!1,week:!1,textarea:!1,select:!1,password:!0}};return{ajax:{deny_list:void 0,block_internal:!0,enabled:!0,harvestTimeSeconds:10,autoStart:!0},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},feature_flags:[],generic_events:{enabled:!0,harvestTimeSeconds:30,autoStart:!0},harvest:{tooManyRequestsDelay:60},jserrors:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},logging:{enabled:!0,harvestTimeSeconds:10,autoStart:!0,level:n.p_.INFO},metrics:{enabled:!0,autoStart:!0},obfuscate:void 0,page_action:{enabled:!0},user_actions:{enabled:!0},page_view_event:{enabled:!0,autoStart:!0},page_view_timing:{enabled:!0,harvestTimeSeconds:30,autoStart:!0},privacy:{cookies_enabled:!0},proxy:{assets:void 0,beacon:void 0},session:{expiresMs:o.wk,inactiveMs:o.BB},session_replay:{autoStart:!0,enabled:!1,harvestTimeSeconds:60,preload:!1,sampling_rate:10,error_sampling_rate:100,collect_fonts:!1,inline_images:!1,fix_stylesheets:!0,mask_all_inputs:!0,get mask_text_selector(){return e.mask_selector},set mask_text_selector(t){i(t)?e.mask_selector="".concat(t,",").concat(u):""===t||null===t?e.mask_selector=u:(0,a.R)(5,t)},get block_class(){return"nr-block"},get ignore_class(){return"nr-ignore"},get mask_text_class(){return"nr-mask"},get block_selector(){return e.block_selector},set block_selector(t){i(t)?e.block_selector+=",".concat(t):""!==t&&(0,a.R)(6,t)},get mask_input_options(){return e.mask_input_options},set mask_input_options(t){t&&"object"==typeof t?e.mask_input_options={...t,password:!0}:(0,a.R)(7,t)}},session_trace:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},soft_navigations:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},spa:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},ssl:void 0}},l={},f="All configuration objects require an agent identifier!";function h(e){if(!e)throw new Error(f);if(!l[e])throw new Error("Configuration for ".concat(e," was never set"));return l[e]}function g(e,t){if(!e)throw new Error(f);l[e]=(0,c.a)(t,d());const r=(0,s.nY)(e);r&&(r.init=l[e])}function p(e,t){if(!e)throw new Error(f);var r=h(e);if(r){for(var n=t.split("."),i=0;i<n.length-1;i++)if("object"!=typeof(r=r[n[i]]))return;r=r[n[n.length-1]]}return r}},5603:(e,t,r)=>{"use strict";r.d(t,{a:()=>c,o:()=>s});var n=r(384),i=r(8122);const o={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},a={};function s(e){if(!e)throw new Error("All loader-config objects require an agent identifier!");if(!a[e])throw new Error("LoaderConfig for ".concat(e," was never set"));return a[e]}function c(e,t){if(!e)throw new Error("All loader-config objects require an agent identifier!");a[e]=(0,i.a)(t,o);const r=(0,n.nY)(e);r&&(r.loader_config=a[e])}},3371:(e,t,r)=>{"use strict";r.d(t,{V:()=>f,f:()=>l});var n=r(8122),i=r(384),o=r(6154),a=r(9324);let s=0;const c={buildEnv:a.F3,distMethod:a.Xs,version:a.xv,originTime:o.WN},u={customTransaction:void 0,disabled:!1,isolatedBacklog:!1,loaderType:void 0,maxBytes:3e4,onerror:void 0,origin:""+o.gm.location,ptid:void 0,releaseIds:{},appMetadata:{},session:void 0,denyList:void 0,timeKeeper:void 0,obfuscator:void 0},d={};function l(e){if(!e)throw new Error("All runtime objects require an agent identifier!");if(!d[e])throw new Error("Runtime for ".concat(e," was never set"));return d[e]}function f(e,t){if(!e)throw new Error("All runtime objects require an agent identifier!");d[e]={...(0,n.a)(t,u),...c},Object.hasOwnProperty.call(d[e],"harvestCount")||Object.defineProperty(d[e],"harvestCount",{get:()=>++s});const r=(0,i.nY)(e);r&&(r.runtime=d[e])}},9324:(e,t,r)=>{"use strict";r.d(t,{F3:()=>i,Xs:()=>o,Yq:()=>a,xv:()=>n});const n="1.268.0",i="PROD",o="CDN",a="2.0.0-alpha.12"},6154:(e,t,r)=>{"use strict";r.d(t,{A4:()=>s,OF:()=>d,RI:()=>i,Vr:()=>h,WN:()=>g,bv:()=>o,gm:()=>a,lR:()=>f,m:()=>u,mw:()=>c,sb:()=>l});var n=r(1863);const i="undefined"!=typeof window&&!!window.document,o="undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis.navigator instanceof WorkerNavigator),a=i?window:"undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis),s="complete"===a?.document?.readyState,c=Boolean("hidden"===a?.document?.visibilityState),u=""+a?.location,d=/iPad|iPhone|iPod/.test(a.navigator?.userAgent),l=d&&"undefined"==typeof SharedWorker,f=(()=>{const e=a.navigator?.userAgent?.match(/Firefox[/\s](\d+\.\d+)/);return Array.isArray(e)&&e.length>=2?+e[1]:0})(),h=!!a.navigator?.sendBeacon,g=Date.now()-(0,n.t)()},4777:(e,t,r)=>{"use strict";r.d(t,{J:()=>o});var n=r(944);const i={agentIdentifier:"",ee:void 0};class o{constructor(e){try{if("object"!=typeof e)return(0,n.R)(8);this.sharedContext={},Object.assign(this.sharedContext,i),Object.entries(e).forEach((([e,t])=>{Object.keys(i).includes(e)&&(this.sharedContext[e]=t)}))}catch(e){(0,n.R)(9,e)}}}},7295:(e,t,r)=>{"use strict";r.d(t,{Xv:()=>a,gX:()=>i,iW:()=>o});var n=[];function i(e){if(!e||o(e))return!1;if(0===n.length)return!0;for(var t=0;t<n.length;t++){var r=n[t];if("*"===r.hostname)return!1;if(s(r.hostname,e.hostname)&&c(r.pathname,e.pathname))return!1}return!0}function o(e){return void 0===e.hostname}function a(e){if(n=[],e&&e.length)for(var t=0;t<e.length;t++){let r=e[t];if(!r)continue;0===r.indexOf("http://")?r=r.substring(7):0===r.indexOf("https://")&&(r=r.substring(8));const i=r.indexOf("/");let o,a;i>0?(o=r.substring(0,i),a=r.substring(i)):(o=r,a="");let[s]=o.split(":");n.push({hostname:s,pathname:a})}}function s(e,t){return!(e.length>t.length)&&t.indexOf(e)===t.length-e.length}function c(e,t){return 0===e.indexOf("/")&&(e=e.substring(1)),0===t.indexOf("/")&&(t=t.substring(1)),""===e||e===t}},1687:(e,t,r)=>{"use strict";r.d(t,{Ak:()=>c,Ze:()=>l,x3:()=>u});var n=r(7836),i=r(3606),o=r(860),a=r(2646);const s={};function c(e,t){const r={staged:!1,priority:o.P[t]||0};d(e),s[e].get(t)||s[e].set(t,r)}function u(e,t){e&&s[e]&&(s[e].get(t)&&s[e].delete(t),h(e,t,!1),s[e].size&&f(e))}function d(e){if(!e)throw new Error("agentIdentifier required");s[e]||(s[e]=new Map)}function l(e="",t="feature",r=!1){if(d(e),!e||!s[e].get(t)||r)return h(e,t);s[e].get(t).staged=!0,f(e)}function f(e){const t=Array.from(s[e]);t.every((([e,t])=>t.staged))&&(t.sort(((e,t)=>e[1].priority-t[1].priority)),t.forEach((([t])=>{s[e].delete(t),h(e,t)})))}function h(e,t,r=!0){const o=e?n.ee.get(e):n.ee,s=i.i.handlers;if(!o.aborted&&o.backlog&&s){if(r){const e=o.backlog[t],r=s[t];if(r){for(let t=0;e&&t<e.length;++t)g(e[t],r);Object.entries(r).forEach((([e,t])=>{Object.values(t||{}).forEach((t=>{t[0]?.on&&t[0]?.context()instanceof a.y&&t[0].on(e,t[1])}))}))}}o.isolatedBacklog||delete s[t],o.backlog[t]=null,o.emit("drain-"+t,[])}}function g(e,t){var r=e[1];Object.values(t[r]||{}).forEach((t=>{var r=e[0];if(t[0]===r){var n=t[1],i=e[3],o=e[2];n.apply(i,o)}}))}},7836:(e,t,r)=>{"use strict";r.d(t,{P:()=>c,ee:()=>u});var n=r(384),i=r(8990),o=r(3371),a=r(2646),s=r(5607);const c="nr@context:".concat(s.W),u=function e(t,r){var n={},s={},d={},l=!1;try{l=16===r.length&&(0,o.f)(r).isolatedBacklog}catch(e){}var f={on:g,addEventListener:g,removeEventListener:function(e,t){var r=n[e];if(!r)return;for(var i=0;i<r.length;i++)r[i]===t&&r.splice(i,1)},emit:function(e,r,n,i,o){!1!==o&&(o=!0);if(u.aborted&&!i)return;t&&o&&t.emit(e,r,n);for(var a=h(n),c=p(e),d=c.length,l=0;l<d;l++)c[l].apply(a,r);var g=v()[s[e]];g&&g.push([f,e,r,a]);return a},get:m,listeners:p,context:h,buffer:function(e,t){const r=v();if(t=t||"feature",f.aborted)return;Object.entries(e||{}).forEach((([e,n])=>{s[n]=t,t in r||(r[t]=[])}))},abort:function(){f._aborted=!0,Object.keys(f.backlog).forEach((e=>{delete f.backlog[e]}))},isBuffering:function(e){return!!v()[s[e]]},debugId:r,backlog:l?{}:t&&"object"==typeof t.backlog?t.backlog:{},isolatedBacklog:l};return Object.defineProperty(f,"aborted",{get:()=>{let e=f._aborted||!1;return e||(t&&(e=t.aborted),e)}}),f;function h(e){return e&&e instanceof a.y?e:e?(0,i.I)(e,c,(()=>new a.y(c))):new a.y(c)}function g(e,t){n[e]=p(e).concat(t)}function p(e){return n[e]||[]}function m(t){return d[t]=d[t]||e(f,t)}function v(){return f.backlog}}(void 0,"globalEE"),d=(0,n.Zm)();d.ee||(d.ee=u)},2646:(e,t,r)=>{"use strict";r.d(t,{y:()=>n});class n{constructor(e){this.contextId=e}}},9908:(e,t,r)=>{"use strict";r.d(t,{d:()=>n,p:()=>i});var n=r(7836).ee.get("handle");function i(e,t,r,i,o){o?(o.buffer([e],i),o.emit(e,t,r)):(n.buffer([e],i),n.emit(e,t,r))}},3606:(e,t,r)=>{"use strict";r.d(t,{i:()=>o});var n=r(9908);o.on=a;var i=o.handlers={};function o(e,t,r,o){a(o||n.d,i,e,t,r)}function a(e,t,r,i,o){o||(o="feature"),e||(e=n.d);var a=t[o]=t[o]||{};(a[r]=a[r]||[]).push([e,i])}},3878:(e,t,r)=>{"use strict";function n(e,t){return{capture:e,passive:!1,signal:t}}function i(e,t,r=!1,i){window.addEventListener(e,t,n(r,i))}function o(e,t,r=!1,i){document.addEventListener(e,t,n(r,i))}r.d(t,{DD:()=>o,jT:()=>n,sp:()=>i})},5607:(e,t,r)=>{"use strict";r.d(t,{W:()=>n});const n=(0,r(9566).bz)()},9566:(e,t,r)=>{"use strict";r.d(t,{LA:()=>s,ZF:()=>c,bz:()=>a,el:()=>u});var n=r(6154);const i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx";function o(e,t){return e?15&e[t]:16*Math.random()|0}function a(){const e=n.gm?.crypto||n.gm?.msCrypto;let t,r=0;return e&&e.getRandomValues&&(t=e.getRandomValues(new Uint8Array(30))),i.split("").map((e=>"x"===e?o(t,r++).toString(16):"y"===e?(3&o()|8).toString(16):e)).join("")}function s(e){const t=n.gm?.crypto||n.gm?.msCrypto;let r,i=0;t&&t.getRandomValues&&(r=t.getRandomValues(new Uint8Array(e)));const a=[];for(var s=0;s<e;s++)a.push(o(r,i++).toString(16));return a.join("")}function c(){return s(16)}function u(){return s(32)}},2614:(e,t,r)=>{"use strict";r.d(t,{BB:()=>a,H3:()=>n,g:()=>u,iL:()=>c,tS:()=>s,uh:()=>i,wk:()=>o});const n="NRBA",i="SESSION",o=144e5,a=18e5,s={STARTED:"session-started",PAUSE:"session-pause",RESET:"session-reset",RESUME:"session-resume",UPDATE:"session-update"},c={SAME_TAB:"same-tab",CROSS_TAB:"cross-tab"},u={OFF:0,FULL:1,ERROR:2}},1863:(e,t,r)=>{"use strict";function n(){return Math.floor(performance.now())}r.d(t,{t:()=>n})},7485:(e,t,r)=>{"use strict";r.d(t,{D:()=>i});var n=r(6154);function i(e){if(0===(e||"").indexOf("data:"))return{protocol:"data"};try{const t=new URL(e,location.href),r={port:t.port,hostname:t.hostname,pathname:t.pathname,search:t.search,protocol:t.protocol.slice(0,t.protocol.indexOf(":")),sameOrigin:t.protocol===n.gm?.location?.protocol&&t.host===n.gm?.location?.host};return r.port&&""!==r.port||("http:"===t.protocol&&(r.port="80"),"https:"===t.protocol&&(r.port="443")),r.pathname&&""!==r.pathname?r.pathname.startsWith("/")||(r.pathname="/".concat(r.pathname)):r.pathname="/",r}catch(e){return{}}}},944:(e,t,r)=>{"use strict";function n(e,t){"function"==typeof console.debug&&console.debug("New Relic Warning: https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t)}r.d(t,{R:()=>n})},5284:(e,t,r)=>{"use strict";r.d(t,{t:()=>c,B:()=>s});var n=r(7836),i=r(6154);const o="newrelic";const a=new Set,s={};function c(e,t){const r=n.ee.get(t);s[t]??={},e&&"object"==typeof e&&(a.has(t)||(r.emit("rumresp",[e]),s[t]=e,a.add(t),function(e={}){try{i.gm.dispatchEvent(new CustomEvent(o,{detail:e}))}catch(e){}}({loaded:!0})))}},8990:(e,t,r)=>{"use strict";r.d(t,{I:()=>i});var n=Object.prototype.hasOwnProperty;function i(e,t,r){if(n.call(e,t))return e[t];var i=r();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:i,writable:!0,enumerable:!1}),i}catch(e){}return e[t]=i,i}},6389:(e,t,r)=>{"use strict";function n(e,t=500,r={}){const n=r?.leading||!1;let i;return(...r)=>{n&&void 0===i&&(e.apply(this,r),i=setTimeout((()=>{i=clearTimeout(i)}),t)),n||(clearTimeout(i),i=setTimeout((()=>{e.apply(this,r)}),t))}}function i(e){let t=!1;return(...r)=>{t||(t=!0,e.apply(this,r))}}r.d(t,{J:()=>i,s:()=>n})},3304:(e,t,r)=>{"use strict";r.d(t,{A:()=>o});var n=r(7836);const i=()=>{const e=new WeakSet;return(t,r)=>{if("object"==typeof r&&null!==r){if(e.has(r))return;e.add(r)}return r}};function o(e){try{return JSON.stringify(e,i())??""}catch(e){try{n.ee.emit("internal-error",[e])}catch(e){}return""}}},5289:(e,t,r)=>{"use strict";r.d(t,{GG:()=>o,sB:()=>a});var n=r(3878);function i(){return"undefined"==typeof document||"complete"===document.readyState}function o(e,t){if(i())return e();(0,n.sp)("load",e,t)}function a(e){if(i())return e();(0,n.DD)("DOMContentLoaded",e)}},384:(e,t,r)=>{"use strict";r.d(t,{NT:()=>o,US:()=>d,Zm:()=>a,bQ:()=>c,dV:()=>s,nY:()=>u,pV:()=>l});var n=r(6154),i=r(1863);const o={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function a(){return n.gm.NREUM||(n.gm.NREUM={}),void 0===n.gm.newrelic&&(n.gm.newrelic=n.gm.NREUM),n.gm.NREUM}function s(){let e=a();return e.o||(e.o={ST:n.gm.setTimeout,SI:n.gm.setImmediate,CT:n.gm.clearTimeout,XHR:n.gm.XMLHttpRequest,REQ:n.gm.Request,EV:n.gm.Event,PR:n.gm.Promise,MO:n.gm.MutationObserver,FETCH:n.gm.fetch,WS:n.gm.WebSocket}),e}function c(e,t){let r=a();r.initializedAgents??={},t.initializedAt={ms:(0,i.t)(),date:new Date},r.initializedAgents[e]=t}function u(e){let t=a();return t.initializedAgents?.[e]}function d(e,t){a()[e]=t}function l(){return function(){let e=a();const t=e.info||{};e.info={beacon:o.beacon,errorBeacon:o.errorBeacon,...t}}(),function(){let e=a();const t=e.init||{};e.init={...t}}(),s(),function(){let e=a();const t=e.loader_config||{};e.loader_config={...t}}(),a()}},2843:(e,t,r)=>{"use strict";r.d(t,{u:()=>i});var n=r(3878);function i(e,t=!1,r,i){(0,n.DD)("visibilitychange",(function(){if(t)return void("hidden"===document.visibilityState&&e());e(document.visibilityState)}),r,i)}},8139:(e,t,r)=>{"use strict";r.d(t,{u:()=>f});var n=r(7836),i=r(3434),o=r(8990),a=r(6154);const s={},c=a.gm.XMLHttpRequest,u="addEventListener",d="removeEventListener",l="nr@wrapped:".concat(n.P);function f(e){var t=function(e){return(e||n.ee).get("events")}(e);if(s[t.debugId]++)return t;s[t.debugId]=1;var r=(0,i.YM)(t,!0);function f(e){r.inPlace(e,[u,d],"-",g)}function g(e,t){return e[1]}return"getPrototypeOf"in Object&&(a.RI&&h(document,f),h(a.gm,f),h(c.prototype,f)),t.on(u+"-start",(function(e,t){var n=e[1];if(null!==n&&("function"==typeof n||"object"==typeof n)){var i=(0,o.I)(n,l,(function(){var e={object:function(){if("function"!=typeof n.handleEvent)return;return n.handleEvent.apply(n,arguments)},function:n}[typeof n];return e?r(e,"fn-",null,e.name||"anonymous"):n}));this.wrapped=e[1]=i}})),t.on(d+"-start",(function(e){e[1]=this.wrapped||e[1]})),t}function h(e,t,...r){let n=e;for(;"object"==typeof n&&!Object.prototype.hasOwnProperty.call(n,u);)n=Object.getPrototypeOf(n);n&&t(n,...r)}},3434:(e,t,r)=>{"use strict";r.d(t,{Jt:()=>o,YM:()=>c});var n=r(7836),i=r(5607);const o="nr@original:".concat(i.W);var a=Object.prototype.hasOwnProperty,s=!1;function c(e,t){return e||(e=n.ee),r.inPlace=function(e,t,n,i,o){n||(n="");const a="-"===n.charAt(0);for(let s=0;s<t.length;s++){const c=t[s],u=e[c];d(u)||(e[c]=r(u,a?c+n:n,i,c,o))}},r.flag=o,r;function r(t,r,n,s,c){return d(t)?t:(r||(r=""),nrWrapper[o]=t,function(e,t,r){if(Object.defineProperty&&Object.keys)try{return Object.keys(e).forEach((function(r){Object.defineProperty(t,r,{get:function(){return e[r]},set:function(t){return e[r]=t,t}})})),t}catch(e){u([e],r)}for(var n in e)a.call(e,n)&&(t[n]=e[n])}(t,nrWrapper,e),nrWrapper);function nrWrapper(){var o,a,d,l;try{a=this,o=[...arguments],d="function"==typeof n?n(o,a):n||{}}catch(t){u([t,"",[o,a,s],d],e)}i(r+"start",[o,a,s],d,c);try{return l=t.apply(a,o)}catch(e){throw i(r+"err",[o,a,e],d,c),e}finally{i(r+"end",[o,a,l],d,c)}}}function i(r,n,i,o){if(!s||t){var a=s;s=!0;try{e.emit(r,n,i,t,o)}catch(t){u([t,r,n,i],e)}s=a}}}function u(e,t){t||(t=n.ee);try{t.emit("internal-error",e)}catch(e){}}function d(e){return!(e&&"function"==typeof e&&e.apply&&!e[o])}},9300:(e,t,r)=>{"use strict";r.d(t,{T:()=>n});const n=r(860).K.ajax},3333:(e,t,r)=>{"use strict";r.d(t,{TZ:()=>n,Zp:()=>i,mq:()=>s,nf:()=>a,qN:()=>o});const n=r(860).K.genericEvents,i=["auxclick","click","copy","keydown","paste","scrollend"],o=["focus","blur"],a=4,s=1e3},6774:(e,t,r)=>{"use strict";r.d(t,{T:()=>n});const n=r(860).K.jserrors},993:(e,t,r)=>{"use strict";r.d(t,{ET:()=>o,TZ:()=>a,p_:()=>i});var n=r(860);const i={ERROR:"ERROR",WARN:"WARN",INFO:"INFO",DEBUG:"DEBUG",TRACE:"TRACE"},o="log",a=n.K.logging},3785:(e,t,r)=>{"use strict";r.d(t,{R:()=>c,b:()=>u});var n=r(9908),i=r(1863),o=r(860),a=r(3969),s=r(993);function c(e,t,r={},c=s.p_.INFO){(0,n.p)(a.xV,["API/logging/".concat(c.toLowerCase(),"/called")],void 0,o.K.metrics,e),(0,n.p)(s.ET,[(0,i.t)(),t,r,c],void 0,o.K.logging,e)}function u(e){return"string"==typeof e&&Object.values(s.p_).some((t=>t===e.toUpperCase().trim()))}},3969:(e,t,r)=>{"use strict";r.d(t,{TZ:()=>n,XG:()=>s,rs:()=>i,xV:()=>a,z_:()=>o});const n=r(860).K.metrics,i="sm",o="cm",a="storeSupportabilityMetrics",s="storeEventMetrics"},6630:(e,t,r)=>{"use strict";r.d(t,{T:()=>n});const n=r(860).K.pageViewEvent},782:(e,t,r)=>{"use strict";r.d(t,{T:()=>n});const n=r(860).K.pageViewTiming},6344:(e,t,r)=>{"use strict";r.d(t,{BB:()=>d,G4:()=>o,Qb:()=>l,TZ:()=>i,Ug:()=>a,_s:()=>s,bc:()=>u,yP:()=>c});var n=r(2614);const i=r(860).K.sessionReplay,o={RECORD:"recordReplay",PAUSE:"pauseReplay",REPLAY_RUNNING:"replayRunning",ERROR_DURING_REPLAY:"errorDuringReplay"},a=.12,s={DomContentLoaded:0,Load:1,FullSnapshot:2,IncrementalSnapshot:3,Meta:4,Custom:5},c={[n.g.ERROR]:15e3,[n.g.FULL]:3e5,[n.g.OFF]:0},u={RESET:{message:"Session was reset",sm:"Reset"},IMPORT:{message:"Recorder failed to import",sm:"Import"},TOO_MANY:{message:"429: Too Many Requests",sm:"Too-Many"},TOO_BIG:{message:"Payload was too large",sm:"Too-Big"},CROSS_TAB:{message:"Session Entity was set to OFF on another tab",sm:"Cross-Tab"},ENTITLEMENTS:{message:"Session Replay is not allowed and will not be started",sm:"Entitlement"}},d=5e3,l={API:"api"}},5270:(e,t,r)=>{"use strict";r.d(t,{Aw:()=>c,CT:()=>u,SR:()=>s});var n=r(384),i=r(9417),o=r(7767),a=r(6154);function s(e){return!!(0,n.dV)().o.MO&&(0,o.V)(e)&&!0===(0,i.gD)(e,"session_trace.enabled")}function c(e){return!0===(0,i.gD)(e,"session_replay.preload")&&s(e)}function u(e,t){const r=t.correctAbsoluteTimestamp(e);return{originalTimestamp:e,correctedTimestamp:r,timestampDiff:e-r,originTime:a.WN,correctedOriginTime:t.correctedOriginTime,originTimeDiff:Math.floor(a.WN-t.correctedOriginTime)}}},3738:(e,t,r)=>{"use strict";r.d(t,{He:()=>i,Kp:()=>s,Lc:()=>u,Rz:()=>d,TZ:()=>n,bD:()=>o,d3:()=>a,jx:()=>l,uP:()=>c});const n=r(860).K.sessionTrace,i="bstResource",o="resource",a="-start",s="-end",c="fn"+a,u="fn"+s,d="pushState",l=1e3},3962:(e,t,r)=>{"use strict";r.d(t,{AM:()=>o,O2:()=>s,Qu:()=>c,TZ:()=>a,ih:()=>u,tC:()=>i});var n=r(860);const i=["click","keydown","submit"],o="api",a=n.K.softNav,s={INITIAL_PAGE_LOAD:"",ROUTE_CHANGE:1,UNSPECIFIED:2},c={INTERACTION:1,AJAX:2,CUSTOM_END:3,CUSTOM_TRACER:4},u={IP:"in progress",FIN:"finished",CAN:"cancelled"}},7378:(e,t,r)=>{"use strict";r.d(t,{$p:()=>R,BR:()=>b,Kp:()=>x,L3:()=>y,Lc:()=>c,NC:()=>o,SG:()=>d,TZ:()=>i,U6:()=>g,UT:()=>m,d3:()=>w,dT:()=>f,e5:()=>A,gx:()=>v,l9:()=>l,oW:()=>h,op:()=>p,rw:()=>u,tH:()=>E,uP:()=>s,wW:()=>T,xq:()=>a});var n=r(384);const i=r(860).K.spa,o=["click","submit","keypress","keydown","keyup","change"],a=999,s="fn-start",c="fn-end",u="cb-start",d="api-ixn-",l="remaining",f="interaction",h="spaNode",g="jsonpNode",p="fetch-start",m="fetch-done",v="fetch-body-",b="jsonp-end",y=(0,n.dV)().o.ST,w="-start",x="-end",R="-body",T="cb"+x,A="jsTime",E="fetch"},4234:(e,t,r)=>{"use strict";r.d(t,{W:()=>i});var n=r(7836);class i{constructor(e,t,r){this.agentIdentifier=e,this.aggregator=t,this.ee=n.ee.get(e),this.featureName=r,this.blocked=!1}}},7767:(e,t,r)=>{"use strict";r.d(t,{V:()=>o});var n=r(9417),i=r(6154);const o=e=>i.RI&&!0===(0,n.gD)(e,"privacy.cookies_enabled")},425:(e,t,r)=>{"use strict";r.d(t,{j:()=>j});var n=r(860),i=r(2555),o=r(3371),a=r(9908),s=r(7836),c=r(1687),u=r(5289),d=r(6154),l=r(944),f=r(3969),h=r(384),g=r(6344);const p=["setErrorHandler","finished","addToTrace","addRelease","addPageAction","setCurrentRouteName","setPageViewName","setCustomAttribute","interaction","noticeError","setUserId","setApplicationVersion","start",g.G4.RECORD,g.G4.PAUSE,"log","wrapLogger"],m=["setErrorHandler","finished","addToTrace","addRelease"];var v=r(1863),b=r(2614),y=r(993),w=r(3785),x=r(2646),R=r(3434);function T(e,t,r,n){if("object"!=typeof t||!t||"string"!=typeof r||!r||"function"!=typeof t[r])return(0,l.R)(29);const i=function(e){return(e||s.ee).get("logger")}(e),o=(0,R.YM)(i),a=new x.y(s.P);return a.level=n.level,a.customAttributes=n.customAttributes,o.inPlace(t,[r],"wrap-logger-",a),i}function A(){const e=(0,h.pV)();p.forEach((t=>{e[t]=(...r)=>function(t,...r){let n=[];return Object.values(e.initializedAgents).forEach((e=>{e&&e.api?e.exposed&&e.api[t]&&n.push(e.api[t](...r)):(0,l.R)(38,t)})),n.length>1?n:n[0]}(t,...r)}))}const E={};var S=r(9417),N=r(5603),O=r(5284);const I=e=>{const t=e.startsWith("http");e+="/",r.p=t?e:"https://"+e};let _=!1;function j(e,t={},p,x){let{init:R,info:j,loader_config:P,runtime:C={},exposed:k=!0}=t;C.loaderType=p;const L=(0,h.pV)();j||(R=L.init,j=L.info,P=L.loader_config),(0,S.xN)(e.agentIdentifier,R||{}),(0,N.a)(e.agentIdentifier,P||{}),j.jsAttributes??={},d.bv&&(j.jsAttributes.isWorker=!0),(0,i.x1)(e.agentIdentifier,j);const D=(0,S.D0)(e.agentIdentifier),H=[j.beacon,j.errorBeacon];_||(D.proxy.assets&&(I(D.proxy.assets),H.push(D.proxy.assets)),D.proxy.beacon&&H.push(D.proxy.beacon),A(),(0,h.US)("activatedFeatures",O.B),e.runSoftNavOverSpa&&=!0===D.soft_navigations.enabled&&D.feature_flags.includes("soft_nav")),C.denyList=[...D.ajax.deny_list||[],...D.ajax.block_internal?H:[]],C.ptid=e.agentIdentifier,(0,o.V)(e.agentIdentifier,C),e.ee=s.ee.get(e.agentIdentifier),void 0===e.api&&(e.api=function(e,t,h=!1){t||(0,c.Ak)(e,"api");const p={};var x=s.ee.get(e),R=x.get("tracer");E[e]=b.g.OFF,x.on(g.G4.REPLAY_RUNNING,(t=>{E[e]=t}));var A="api-",S=A+"ixn-";function N(t,r,n,o){const a=(0,i.Vp)(e);return null===r?delete a.jsAttributes[t]:(0,i.x1)(e,{...a,jsAttributes:{...a.jsAttributes,[t]:r}}),_(A,n,!0,o||null===r?"session":void 0)(t,r)}function O(){}p.log=function(e,{customAttributes:t={},level:r=y.p_.INFO}={}){(0,a.p)(f.xV,["API/log/called"],void 0,n.K.metrics,x),(0,w.R)(x,e,t,r)},p.wrapLogger=(e,t,{customAttributes:r={},level:i=y.p_.INFO}={})=>{(0,a.p)(f.xV,["API/wrapLogger/called"],void 0,n.K.metrics,x),T(x,e,t,{customAttributes:r,level:i})},m.forEach((e=>{p[e]=_(A,e,!0,"api")})),p.addPageAction=_(A,"addPageAction",!0,n.K.genericEvents),p.setPageViewName=function(t,r){if("string"==typeof t)return"/"!==t.charAt(0)&&(t="/"+t),(0,o.f)(e).customTransaction=(r||"http://custom.transaction")+t,_(A,"setPageViewName",!0)()},p.setCustomAttribute=function(e,t,r=!1){if("string"==typeof e){if(["string","number","boolean"].includes(typeof t)||null===t)return N(e,t,"setCustomAttribute",r);(0,l.R)(40,typeof t)}else(0,l.R)(39,typeof e)},p.setUserId=function(e){if("string"==typeof e||null===e)return N("enduser.id",e,"setUserId",!0);(0,l.R)(41,typeof e)},p.setApplicationVersion=function(e){if("string"==typeof e||null===e)return N("application.version",e,"setApplicationVersion",!1);(0,l.R)(42,typeof e)},p.start=()=>{try{(0,a.p)(f.xV,["API/start/called"],void 0,n.K.metrics,x),x.emit("manual-start-all")}catch(e){(0,l.R)(23,e)}},p[g.G4.RECORD]=function(){(0,a.p)(f.xV,["API/recordReplay/called"],void 0,n.K.metrics,x),(0,a.p)(g.G4.RECORD,[],void 0,n.K.sessionReplay,x)},p[g.G4.PAUSE]=function(){(0,a.p)(f.xV,["API/pauseReplay/called"],void 0,n.K.metrics,x),(0,a.p)(g.G4.PAUSE,[],void 0,n.K.sessionReplay,x)},p.interaction=function(e){return(new O).get("object"==typeof e?e:{})};const I=O.prototype={createTracer:function(e,t){var r={},i=this,o="function"==typeof t;return(0,a.p)(f.xV,["API/createTracer/called"],void 0,n.K.metrics,x),h||(0,a.p)(S+"tracer",[(0,v.t)(),e,r],i,n.K.spa,x),function(){if(R.emit((o?"":"no-")+"fn-start",[(0,v.t)(),i,o],r),o)try{return t.apply(this,arguments)}catch(e){const t="string"==typeof e?new Error(e):e;throw R.emit("fn-err",[arguments,this,t],r),t}finally{R.emit("fn-end",[(0,v.t)()],r)}}}};function _(e,t,r,i){return function(){return(0,a.p)(f.xV,["API/"+t+"/called"],void 0,n.K.metrics,x),i&&(0,a.p)(e+t,[(0,v.t)(),...arguments],r?null:this,i,x),r?void 0:this}}function j(){r.e(478).then(r.bind(r,8778)).then((({setAPI:t})=>{t(e),(0,c.Ze)(e,"api")})).catch((e=>{(0,l.R)(27,e),x.abort()}))}return["actionText","setName","setAttribute","save","ignore","onEnd","getContext","end","get"].forEach((e=>{I[e]=_(S,e,void 0,h?n.K.softNav:n.K.spa)})),p.setCurrentRouteName=h?_(S,"routeName",void 0,n.K.softNav):_(A,"routeName",!0,n.K.spa),p.noticeError=function(t,r){"string"==typeof t&&(t=new Error(t)),(0,a.p)(f.xV,["API/noticeError/called"],void 0,n.K.metrics,x),(0,a.p)("err",[t,(0,v.t)(),!1,r,!!E[e]],void 0,n.K.jserrors,x)},d.RI?(0,u.GG)((()=>j()),!0):j(),p}(e.agentIdentifier,x,e.runSoftNavOverSpa)),void 0===e.exposed&&(e.exposed=k),_=!0}},8374:(e,t,r)=>{r.nc=(()=>{try{return document?.currentScript?.nonce}catch(e){}return""})()},860:(e,t,r)=>{"use strict";r.d(t,{K:()=>n,P:()=>i});const n={ajax:"ajax",genericEvents:"generic_events",jserrors:"jserrors",logging:"logging",metrics:"metrics",pageAction:"page_action",pageViewEvent:"page_view_event",pageViewTiming:"page_view_timing",sessionReplay:"session_replay",sessionTrace:"session_trace",softNav:"soft_navigations",spa:"spa"},i={[n.pageViewEvent]:1,[n.pageViewTiming]:2,[n.metrics]:3,[n.jserrors]:4,[n.spa]:5,[n.ajax]:6,[n.sessionTrace]:7,[n.softNav]:8,[n.sessionReplay]:9,[n.logging]:10,[n.genericEvents]:11}}},n={};function i(e){var t=n[e];if(void 0!==t)return t.exports;var o=n[e]={exports:{}};return r[e](o,o.exports,i),o.exports}i.m=r,i.d=(e,t)=>{for(var r in t)i.o(t,r)&&!i.o(e,r)&&Object.defineProperty(e,r,{enumerable:!0,get:t[r]})},i.f={},i.e=e=>Promise.all(Object.keys(i.f).reduce(((t,r)=>(i.f[r](e,t),t)),[])),i.u=e=>({212:"nr-spa-compressor",249:"nr-spa-recorder",478:"nr-spa"}[e]+"-1.268.0.min.js"),i.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),e={},t="NRBA-1.268.0.PROD:",i.l=(r,n,o,a)=>{if(e[r])e[r].push(n);else{var s,c;if(void 0!==o)for(var u=document.getElementsByTagName("script"),d=0;d<u.length;d++){var l=u[d];if(l.getAttribute("src")==r||l.getAttribute("data-webpack")==t+o){s=l;break}}if(!s){c=!0;var f={478:"sha512-bjdCR8n9LQBegnlzuzuIEHsaT9AodeqLLuPeO694mIy66nuuLVs4YfdocwMLwg01cJXbQCvR/SUEO6bZapVERA==",249:"sha512-HkzmyWwSGuSChOkFt8Y9uj6eNtWyYiRe7xyMhV28/Nt68/HUwqj8bQJ04hX6XaDUmcuBqX2bOPBoISyzfTJJdw==",212:"sha512-XdMlZDJzTn+0V9I0WYb3+v/0Uu051H0U8UI0EA3Xj4a3rQHkZYIxc6Fj5zDmenNMmH9huns5X1dpyfboksWiGw=="};(s=document.createElement("script")).charset="utf-8",s.timeout=120,i.nc&&s.setAttribute("nonce",i.nc),s.setAttribute("data-webpack",t+o),s.src=r,0!==s.src.indexOf(window.location.origin+"/")&&(s.crossOrigin="anonymous"),f[a]&&(s.integrity=f[a])}e[r]=[n];var h=(t,n)=>{s.onerror=s.onload=null,clearTimeout(g);var i=e[r];if(delete e[r],s.parentNode&&s.parentNode.removeChild(s),i&&i.forEach((e=>e(n))),t)return t(n)},g=setTimeout(h.bind(null,void 0,{type:"timeout",target:s}),12e4);s.onerror=h.bind(null,s.onerror),s.onload=h.bind(null,s.onload),c&&document.head.appendChild(s)}},i.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},i.p="https://js-agent.newrelic.com/",(()=>{var e={38:0,788:0};i.f.j=(t,r)=>{var n=i.o(e,t)?e[t]:void 0;if(0!==n)if(n)r.push(n[2]);else{var o=new Promise(((r,i)=>n=e[t]=[r,i]));r.push(n[2]=o);var a=i.p+i.u(t),s=new Error;i.l(a,(r=>{if(i.o(e,t)&&(0!==(n=e[t])&&(e[t]=void 0),n)){var o=r&&("load"===r.type?"missing":r.type),a=r&&r.target&&r.target.src;s.message="Loading chunk "+t+" failed.\n("+o+": "+a+")",s.name="ChunkLoadError",s.type=o,s.request=a,n[1](s)}}),"chunk-"+t,t)}};var t=(t,r)=>{var n,o,[a,s,c]=r,u=0;if(a.some((t=>0!==e[t]))){for(n in s)i.o(s,n)&&(i.m[n]=s[n]);if(c)c(i)}for(t&&t(r);u<a.length;u++)o=a[u],i.o(e,o)&&e[o]&&e[o][0](),e[o]=0},r=self["webpackChunk:NRBA-1.268.0.PROD"]=self["webpackChunk:NRBA-1.268.0.PROD"]||[];r.forEach(t.bind(null,0)),r.push=t.bind(null,r.push.bind(r))})(),(()=>{"use strict";i(8374);var e=i(944),t=i(6344),r=i(9566);class n{agentIdentifier;constructor(e=(0,r.LA)(16)){this.agentIdentifier=e}#e(t,...r){if("function"==typeof this.api?.[t])return this.api[t](...r);(0,e.R)(35,t)}addPageAction(e,t){return this.#e("addPageAction",e,t)}setPageViewName(e,t){return this.#e("setPageViewName",e,t)}setCustomAttribute(e,t,r){return this.#e("setCustomAttribute",e,t,r)}noticeError(e,t){return this.#e("noticeError",e,t)}setUserId(e){return this.#e("setUserId",e)}setApplicationVersion(e){return this.#e("setApplicationVersion",e)}setErrorHandler(e){return this.#e("setErrorHandler",e)}finished(e){return this.#e("finished",e)}addRelease(e,t){return this.#e("addRelease",e,t)}start(e){return this.#e("start",e)}recordReplay(){return this.#e(t.G4.RECORD)}pauseReplay(){return this.#e(t.G4.PAUSE)}addToTrace(e){return this.#e("addToTrace",e)}setCurrentRouteName(e){return this.#e("setCurrentRouteName",e)}interaction(){return this.#e("interaction")}log(e,t){return this.#e("log",e,t)}wrapLogger(e,t,r){return this.#e("wrapLogger",e,t,r)}}var o=i(860),a=i(9417);const s=Object.values(o.K);function c(e){const t={};return s.forEach((r=>{t[r]=function(e,t){return!0===(0,a.gD)(t,"".concat(e,".enabled"))}(r,e)})),t}var u=i(425);var d=i(1687),l=i(4234),f=i(5289),h=i(6154),g=i(5270),p=i(7767),m=i(6389);class v extends l.W{constructor(e,t,r,n=!0){super(e,t,r),this.auto=n,this.abortHandler=void 0,this.featAggregate=void 0,this.onAggregateImported=void 0,!1===(0,a.gD)(this.agentIdentifier,"".concat(this.featureName,".autoStart"))&&(this.auto=!1),this.auto?(0,d.Ak)(e,r):this.ee.on("manual-start-all",(0,m.J)((()=>{(0,d.Ak)(this.agentIdentifier,this.featureName),this.auto=!0,this.importAggregator()})))}importAggregator(t={}){if(this.featAggregate||!this.auto)return;let r;this.onAggregateImported=new Promise((e=>{r=e}));const n=async()=>{let n;try{if((0,p.V)(this.agentIdentifier)){const{setupAgentSession:e}=await i.e(478).then(i.bind(i,6526));n=e(this.agentIdentifier)}}catch(t){(0,e.R)(20,t),this.ee.emit("internal-error",[t]),this.featureName===o.K.sessionReplay&&this.abortHandler?.()}try{if(!this.#t(this.featureName,n))return(0,d.Ze)(this.agentIdentifier,this.featureName),void r(!1);const{lazyFeatureLoader:e}=await i.e(478).then(i.bind(i,6103)),{Aggregate:o}=await e(this.featureName,"aggregate");this.featAggregate=new o(this.agentIdentifier,this.aggregator,t),r(!0)}catch(t){(0,e.R)(34,t),this.abortHandler?.(),(0,d.Ze)(this.agentIdentifier,this.featureName,!0),r(!1),this.ee&&this.ee.abort()}};h.RI?(0,f.GG)((()=>n()),!0):n()}#t(e,t){switch(e){case o.K.sessionReplay:return(0,g.SR)(this.agentIdentifier)&&!!t;case o.K.sessionTrace:return!!t;default:return!0}}}var b=i(6630);class y extends v{static featureName=b.T;constructor(e,t,r=!0){super(e,t,b.T,r),this.importAggregator()}}var w=i(4777);class x extends w.J{constructor(e){super(e),this.aggregatedData={}}store(e,t,r,n,i){var o=this.getBucket(e,t,r,i);return o.metrics=function(e,t){t||(t={count:0});return t.count+=1,Object.entries(e||{}).forEach((([e,r])=>{t[e]=R(r,t[e])})),t}(n,o.metrics),o}merge(e,t,r,n,i){var o=this.getBucket(e,t,n,i);if(o.metrics){var a=o.metrics;a.count+=r.count,Object.keys(r||{}).forEach((e=>{if("count"!==e){var t=a[e],n=r[e];n&&!n.c?a[e]=R(n.t,t):a[e]=function(e,t){if(!t)return e;t.c||(t=T(t.t));return t.min=Math.min(e.min,t.min),t.max=Math.max(e.max,t.max),t.t+=e.t,t.sos+=e.sos,t.c+=e.c,t}(n,a[e])}}))}else o.metrics=r}storeMetric(e,t,r,n){var i=this.getBucket(e,t,r);return i.stats=R(n,i.stats),i}getBucket(e,t,r,n){this.aggregatedData[e]||(this.aggregatedData[e]={});var i=this.aggregatedData[e][t];return i||(i=this.aggregatedData[e][t]={params:r||{}},n&&(i.custom=n)),i}get(e,t){return t?this.aggregatedData[e]&&this.aggregatedData[e][t]:this.aggregatedData[e]}take(e){for(var t={},r="",n=!1,i=0;i<e.length;i++)t[r=e[i]]=Object.values(this.aggregatedData[r]||{}),t[r].length&&(n=!0),delete this.aggregatedData[r];return n?t:null}}function R(e,t){return null==e?function(e){e?e.c++:e={c:1};return e}(t):t?(t.c||(t=T(t.t)),t.c+=1,t.t+=e,t.sos+=e*e,e>t.max&&(t.max=e),e<t.min&&(t.min=e),t):{t:e}}function T(e){return{t:e,min:e,max:e,sos:e*e,c:1}}var A=i(384);var E=i(9908),S=i(2843),N=i(3878),O=i(782),I=i(1863);class _ extends v{static featureName=O.T;constructor(e,t,r=!0){super(e,t,O.T,r),h.RI&&((0,S.u)((()=>(0,E.p)("docHidden",[(0,I.t)()],void 0,O.T,this.ee)),!0),(0,N.sp)("pagehide",(()=>(0,E.p)("winPagehide",[(0,I.t)()],void 0,O.T,this.ee))),this.importAggregator())}}var j=i(3969);class P extends v{static featureName=j.TZ;constructor(e,t,r=!0){super(e,t,j.TZ,r),this.importAggregator()}}var C=i(6774),k=i(3304);class L{constructor(e,t,r,n,i){this.name="UncaughtError",this.message="string"==typeof e?e:(0,k.A)(e),this.sourceURL=t,this.line=r,this.column=n,this.__newrelic=i}}function D(e){return K(e)?e:new L(void 0!==e?.message?e.message:e,e?.filename||e?.sourceURL,e?.lineno||e?.line,e?.colno||e?.col,e?.__newrelic)}function H(e){let t="Unhandled Promise Rejection";if(K(e?.reason))try{return e.reason.message=t+": "+e.reason.message,D(e.reason)}catch(t){return D(e.reason)}if(void 0===e.reason)return D(t);const r=D(e.reason);return r.message=t+": "+r?.message,r}function M(e){if(e.error instanceof SyntaxError&&!/:\d+$/.test(e.error.stack?.trim())){const t=new L(e.message,e.filename,e.lineno,e.colno,e.error.__newrelic);return t.name=SyntaxError.name,t}return K(e.error)?e.error:D(e)}function K(e){return e instanceof Error&&!!e.stack}class U extends v{static featureName=C.T;#r=!1;constructor(e,r,n=!0){super(e,r,C.T,n);try{this.removeOnAbort=new AbortController}catch(e){}this.ee.on("internal-error",(e=>{this.abortHandler&&(0,E.p)("ierr",[D(e),(0,I.t)(),!0,{},this.#r],void 0,this.featureName,this.ee)})),this.ee.on(t.G4.REPLAY_RUNNING,(e=>{this.#r=e})),h.gm.addEventListener("unhandledrejection",(e=>{this.abortHandler&&(0,E.p)("err",[H(e),(0,I.t)(),!1,{unhandledPromiseRejection:1},this.#r],void 0,this.featureName,this.ee)}),(0,N.jT)(!1,this.removeOnAbort?.signal)),h.gm.addEventListener("error",(e=>{this.abortHandler&&(0,E.p)("err",[M(e),(0,I.t)(),!1,{},this.#r],void 0,this.featureName,this.ee)}),(0,N.jT)(!1,this.removeOnAbort?.signal)),this.abortHandler=this.#n,this.importAggregator()}#n(){this.removeOnAbort?.abort(),this.abortHandler=void 0}}var V=i(5603),G=i(8990);let B=1;const F="nr@id";function W(e){const t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===h.gm?0:(0,G.I)(e,F,(function(){return B++}))}function z(e){if("string"==typeof e&&e.length)return e.length;if("object"==typeof e){if("undefined"!=typeof ArrayBuffer&&e instanceof ArrayBuffer&&e.byteLength)return e.byteLength;if("undefined"!=typeof Blob&&e instanceof Blob&&e.size)return e.size;if(!("undefined"!=typeof FormData&&e instanceof FormData))try{return(0,k.A)(e).length}catch(e){return}}}var q=i(8139),Z=i(7836),Y=i(3434);const X={},J=["open","send"];function Q(t){var r=t||Z.ee;const n=function(e){return(e||Z.ee).get("xhr")}(r);if(X[n.debugId]++)return n;X[n.debugId]=1,(0,q.u)(r);var i=(0,Y.YM)(n),o=h.gm.XMLHttpRequest,a=h.gm.MutationObserver,s=h.gm.Promise,c=h.gm.setInterval,u="readystatechange",d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],l=[],f=h.gm.XMLHttpRequest=function(t){const r=new o(t),a=n.context(r);try{n.emit("new-xhr",[r],a),r.addEventListener(u,(s=a,function(){var e=this;e.readyState>3&&!s.resolved&&(s.resolved=!0,n.emit("xhr-resolved",[],e)),i.inPlace(e,d,"fn-",y)}),(0,N.jT)(!1))}catch(t){(0,e.R)(15,t);try{n.emit("internal-error",[t])}catch(e){}}var s;return r};function g(e,t){i.inPlace(t,["onreadystatechange"],"fn-",y)}if(function(e,t){for(var r in e)t[r]=e[r]}(o,f),f.prototype=o.prototype,i.inPlace(f.prototype,J,"-xhr-",y),n.on("send-xhr-start",(function(e,t){g(e,t),function(e){l.push(e),a&&(p?p.then(b):c?c(b):(m=-m,v.data=m))}(t)})),n.on("open-xhr-start",g),a){var p=s&&s.resolve();if(!c&&!s){var m=1,v=document.createTextNode(m);new a(b).observe(v,{characterData:!0})}}else r.on("fn-end",(function(e){e[0]&&e[0].type===u||b()}));function b(){for(var e=0;e<l.length;e++)g(0,l[e]);l.length&&(l=[])}function y(e,t){return t}return n}var ee="fetch-",te=ee+"body-",re=["arrayBuffer","blob","json","text","formData"],ne=h.gm.Request,ie=h.gm.Response,oe="prototype";const ae={};function se(e){const t=function(e){return(e||Z.ee).get("fetch")}(e);if(!(ne&&ie&&h.gm.fetch))return t;if(ae[t.debugId]++)return t;function r(e,r,n){var i=e[r];"function"==typeof i&&(e[r]=function(){var e,r=[...arguments],o={};t.emit(n+"before-start",[r],o),o[Z.P]&&o[Z.P].dt&&(e=o[Z.P].dt);var a=i.apply(this,r);return t.emit(n+"start",[r,e],a),a.then((function(e){return t.emit(n+"end",[null,e],a),e}),(function(e){throw t.emit(n+"end",[e],a),e}))})}return ae[t.debugId]=1,re.forEach((e=>{r(ne[oe],e,te),r(ie[oe],e,te)})),r(h.gm,"fetch",ee),t.on(ee+"end",(function(e,r){var n=this;if(r){var i=r.headers.get("content-length");null!==i&&(n.rxSize=i),t.emit(ee+"done",[null,r],n)}else t.emit(ee+"done",[e],n)})),t}var ce=i(7485);class ue{constructor(e){this.agentIdentifier=e}generateTracePayload(e){if(!this.shouldGenerateTrace(e))return null;var t=(0,V.o)(this.agentIdentifier);if(!t)return null;var n=(t.accountID||"").toString()||null,i=(t.agentID||"").toString()||null,o=(t.trustKey||"").toString()||null;if(!n||!i)return null;var a=(0,r.ZF)(),s=(0,r.el)(),c=Date.now(),u={spanId:a,traceId:s,timestamp:c};return(e.sameOrigin||this.isAllowedOrigin(e)&&this.useTraceContextHeadersForCors())&&(u.traceContextParentHeader=this.generateTraceContextParentHeader(a,s),u.traceContextStateHeader=this.generateTraceContextStateHeader(a,c,n,i,o)),(e.sameOrigin&&!this.excludeNewrelicHeader()||!e.sameOrigin&&this.isAllowedOrigin(e)&&this.useNewrelicHeaderForCors())&&(u.newrelicHeader=this.generateTraceHeader(a,s,c,n,i,o)),u}generateTraceContextParentHeader(e,t){return"00-"+t+"-"+e+"-01"}generateTraceContextStateHeader(e,t,r,n,i){return i+"@nr=0-1-"+r+"-"+n+"-"+e+"----"+t}generateTraceHeader(e,t,r,n,i,o){if(!("function"==typeof h.gm?.btoa))return null;var a={v:[0,1],d:{ty:"Browser",ac:n,ap:i,id:e,tr:t,ti:r}};return o&&n!==o&&(a.d.tk=o),btoa((0,k.A)(a))}shouldGenerateTrace(e){return this.isDtEnabled()&&this.isAllowedOrigin(e)}isAllowedOrigin(e){var t=!1,r={};if((0,a.gD)(this.agentIdentifier,"distributed_tracing")&&(r=(0,a.D0)(this.agentIdentifier).distributed_tracing),e.sameOrigin)t=!0;else if(r.allowed_origins instanceof Array)for(var n=0;n<r.allowed_origins.length;n++){var i=(0,ce.D)(r.allowed_origins[n]);if(e.hostname===i.hostname&&e.protocol===i.protocol&&e.port===i.port){t=!0;break}}return t}isDtEnabled(){var e=(0,a.gD)(this.agentIdentifier,"distributed_tracing");return!!e&&!!e.enabled}excludeNewrelicHeader(){var e=(0,a.gD)(this.agentIdentifier,"distributed_tracing");return!!e&&!!e.exclude_newrelic_header}useNewrelicHeaderForCors(){var e=(0,a.gD)(this.agentIdentifier,"distributed_tracing");return!!e&&!1!==e.cors_use_newrelic_header}useTraceContextHeadersForCors(){var e=(0,a.gD)(this.agentIdentifier,"distributed_tracing");return!!e&&!!e.cors_use_tracecontext_headers}}var de=i(9300),le=i(7295),fe=["load","error","abort","timeout"],he=fe.length,ge=(0,A.dV)().o.REQ,pe=(0,A.dV)().o.XHR;class me extends v{static featureName=de.T;constructor(e,t,r=!0){super(e,t,de.T,r),this.dt=new ue(e),this.handler=(e,t,r,n)=>(0,E.p)(e,t,r,n,this.ee);try{const e={xmlhttprequest:"xhr",fetch:"fetch",beacon:"beacon"};h.gm?.performance?.getEntriesByType("resource").forEach((t=>{if(t.initiatorType in e&&0!==t.responseStatus){const r={status:t.responseStatus},n={rxSize:t.transferSize,duration:Math.floor(t.duration),cbTime:0};ve(r,t.name),this.handler("xhr",[r,n,t.startTime,t.responseEnd,e[t.initiatorType]],void 0,o.K.ajax)}}))}catch(e){}se(this.ee),Q(this.ee),function(e,t,r,n){function i(e){var t=this;t.totalCbs=0,t.called=0,t.cbTime=0,t.end=x,t.ended=!1,t.xhrGuids={},t.lastSize=null,t.loadCaptureCalled=!1,t.params=this.params||{},t.metrics=this.metrics||{},e.addEventListener("load",(function(r){R(t,e)}),(0,N.jT)(!1)),h.lR||e.addEventListener("progress",(function(e){t.lastSize=e.loaded}),(0,N.jT)(!1))}function a(e){this.params={method:e[0]},ve(this,e[1]),this.metrics={}}function s(t,r){var i=(0,V.o)(e);i.xpid&&this.sameOrigin&&r.setRequestHeader("X-NewRelic-ID",i.xpid);var o=n.generateTracePayload(this.parsedOrigin);if(o){var a=!1;o.newrelicHeader&&(r.setRequestHeader("newrelic",o.newrelicHeader),a=!0),o.traceContextParentHeader&&(r.setRequestHeader("traceparent",o.traceContextParentHeader),o.traceContextStateHeader&&r.setRequestHeader("tracestate",o.traceContextStateHeader),a=!0),a&&(this.dt=o)}}function c(e,r){var n=this.metrics,i=e[0],o=this;if(n&&i){var a=z(i);a&&(n.txSize=a)}this.startTime=(0,I.t)(),this.body=i,this.listener=function(e){try{"abort"!==e.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==e.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof r.onload)&&"function"==typeof o.end)&&o.end(r)}catch(e){try{t.emit("internal-error",[e])}catch(e){}}};for(var s=0;s<he;s++)r.addEventListener(fe[s],this.listener,(0,N.jT)(!1))}function u(e,t,r){this.cbTime+=e,t?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof r.onload||"function"!=typeof this.end||this.end(r)}function d(e,t){var r=""+W(e)+!!t;this.xhrGuids&&!this.xhrGuids[r]&&(this.xhrGuids[r]=!0,this.totalCbs+=1)}function l(e,t){var r=""+W(e)+!!t;this.xhrGuids&&this.xhrGuids[r]&&(delete this.xhrGuids[r],this.totalCbs-=1)}function f(){this.endTime=(0,I.t)()}function g(e,r){r instanceof pe&&"load"===e[0]&&t.emit("xhr-load-added",[e[1],e[2]],r)}function p(e,r){r instanceof pe&&"load"===e[0]&&t.emit("xhr-load-removed",[e[1],e[2]],r)}function m(e,t,r){t instanceof pe&&("onload"===r&&(this.onload=!0),("load"===(e[0]&&e[0].type)||this.onload)&&(this.xhrCbStart=(0,I.t)()))}function v(e,r){this.xhrCbStart&&t.emit("xhr-cb-time",[(0,I.t)()-this.xhrCbStart,this.onload,r],r)}function b(e){var t,r=e[1]||{};if("string"==typeof e[0]?0===(t=e[0]).length&&h.RI&&(t=""+h.gm.location.href):e[0]&&e[0].url?t=e[0].url:h.gm?.URL&&e[0]&&e[0]instanceof URL?t=e[0].href:"function"==typeof e[0].toString&&(t=e[0].toString()),"string"==typeof t&&0!==t.length){t&&(this.parsedOrigin=(0,ce.D)(t),this.sameOrigin=this.parsedOrigin.sameOrigin);var i=n.generateTracePayload(this.parsedOrigin);if(i&&(i.newrelicHeader||i.traceContextParentHeader))if(e[0]&&e[0].headers)s(e[0].headers,i)&&(this.dt=i);else{var o={};for(var a in r)o[a]=r[a];o.headers=new Headers(r.headers||{}),s(o.headers,i)&&(this.dt=i),e.length>1?e[1]=o:e.push(o)}}function s(e,t){var r=!1;return t.newrelicHeader&&(e.set("newrelic",t.newrelicHeader),r=!0),t.traceContextParentHeader&&(e.set("traceparent",t.traceContextParentHeader),t.traceContextStateHeader&&e.set("tracestate",t.traceContextStateHeader),r=!0),r}}function y(e,t){this.params={},this.metrics={},this.startTime=(0,I.t)(),this.dt=t,e.length>=1&&(this.target=e[0]),e.length>=2&&(this.opts=e[1]);var r,n=this.opts||{},i=this.target;"string"==typeof i?r=i:"object"==typeof i&&i instanceof ge?r=i.url:h.gm?.URL&&"object"==typeof i&&i instanceof URL&&(r=i.href),ve(this,r);var o=(""+(i&&i instanceof ge&&i.method||n.method||"GET")).toUpperCase();this.params.method=o,this.body=n.body,this.txSize=z(n.body)||0}function w(e,t){if(this.endTime=(0,I.t)(),this.params||(this.params={}),(0,le.iW)(this.params))return;let n;this.params.status=t?t.status:0,"string"==typeof this.rxSize&&this.rxSize.length>0&&(n=+this.rxSize);const i={txSize:this.txSize,rxSize:n,duration:(0,I.t)()-this.startTime};r("xhr",[this.params,i,this.startTime,this.endTime,"fetch"],this,o.K.ajax)}function x(e){const t=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(let t=0;t<he;t++)e.removeEventListener(fe[t],this.listener,!1);t.aborted||(0,le.iW)(t)||(n.duration=(0,I.t)()-this.startTime,this.loadCazptureCalled||4!==e.readyState?null==t.status&&(t.status=0):R(this,e),n.cbTime=this.cbTime,r("xhr",[t,n,this.startTime,this.endTime,"xhr"],this,o.K.ajax))}}function R(e,r){e.params.status=r.status;var n=function(e,t){var r=e.responseType;return"json"===r&&null!==t?t:"arraybuffer"===r||"blob"===r||"json"===r?z(e.response):"text"===r||""===r||void 0===r?z(e.responseText):void 0}(r,e.lastSize);if(n&&(e.metrics.rxSize=n),e.sameOrigin){var i=r.getResponseHeader("X-NewRelic-App-Data");i&&((0,E.p)(j.rs,["Ajax/CrossApplicationTracing/Header/Seen"],void 0,o.K.metrics,t),e.params.cat=i.split(", ").pop())}e.loadCaptureCalled=!0}t.on("new-xhr",i),t.on("open-xhr-start",a),t.on("open-xhr-end",s),t.on("send-xhr-start",c),t.on("xhr-cb-time",u),t.on("xhr-load-added",d),t.on("xhr-load-removed",l),t.on("xhr-resolved",f),t.on("addEventListener-end",g),t.on("removeEventListener-end",p),t.on("fn-end",v),t.on("fetch-before-start",b),t.on("fetch-start",y),t.on("fn-start",m),t.on("fetch-done",w)}(e,this.ee,this.handler,this.dt),this.importAggregator()}}function ve(e,t){var r=(0,ce.D)(t),n=e.params||e;n.hostname=r.hostname,n.port=r.port,n.protocol=r.protocol,n.host=r.hostname+":"+r.port,n.pathname=r.pathname,e.parsedOrigin=r,e.sameOrigin=r.sameOrigin}const be={},ye=["pushState","replaceState"];function we(e){const t=function(e){return(e||Z.ee).get("history")}(e);return!h.RI||be[t.debugId]++||(be[t.debugId]=1,(0,Y.YM)(t).inPlace(window.history,ye,"-")),t}var xe=i(3738);const{He:Re,bD:Te,d3:Ae,Kp:Ee,TZ:Se,Lc:Ne,uP:Oe,Rz:Ie}=xe;class _e extends v{static featureName=Se;constructor(e,t,r=!0){super(e,t,Se,r);if(!(0,p.V)(this.agentIdentifier))return void(0,d.x3)(this.agentIdentifier,this.featureName);const n=this.ee;let i;we(n),this.eventsEE=(0,q.u)(n),this.eventsEE.on(Oe,(function(e,t){this.bstStart=(0,I.t)()})),this.eventsEE.on(Ne,(function(e,t){(0,E.p)("bst",[e[0],t,this.bstStart,(0,I.t)()],void 0,o.K.sessionTrace,n)})),n.on(Ie+Ae,(function(e){this.time=(0,I.t)(),this.startPath=location.pathname+location.hash})),n.on(Ie+Ee,(function(e){(0,E.p)("bstHist",[location.pathname+location.hash,this.startPath,this.time],void 0,o.K.sessionTrace,n)}));try{i=new PerformanceObserver((e=>{const t=e.getEntries();(0,E.p)(Re,[t],void 0,o.K.sessionTrace,n)})),i.observe({type:Te,buffered:!0})}catch(e){}this.importAggregator({resourceObserver:i})}}var je=i(2614);class Pe extends v{static featureName=t.TZ;#i;constructor(e,r,n=!0){let i;super(e,r,t.TZ,n),this.replayRunning=!1;try{i=JSON.parse(localStorage.getItem("".concat(je.H3,"_").concat(je.uh)))}catch(e){}(0,g.SR)(e)&&this.ee.on(t.G4.RECORD,(()=>this.#o())),this.#a(i)?(this.#i=i?.sessionReplayMode,this.#s()):this.importAggregator(),this.ee.on("err",(e=>{this.replayRunning&&(this.errorNoticed=!0,(0,E.p)(t.G4.ERROR_DURING_REPLAY,[e],void 0,this.featureName,this.ee))})),this.ee.on(t.G4.REPLAY_RUNNING,(e=>{this.replayRunning=e}))}#a(e){return e&&(e.sessionReplayMode===je.g.FULL||e.sessionReplayMode===je.g.ERROR)||(0,g.Aw)(this.agentIdentifier)}#c=!1;async#s(e){if(!this.#c){this.#c=!0;try{const{Recorder:t}=await Promise.all([i.e(478),i.e(249)]).then(i.bind(i,2496));this.recorder??=new t({mode:this.#i,agentIdentifier:this.agentIdentifier,trigger:e,ee:this.ee}),this.recorder.startRecording(),this.abortHandler=this.recorder.stopRecording}catch(e){}this.importAggregator({recorder:this.recorder,errorNoticed:this.errorNoticed})}}#o(){this.featAggregate?this.featAggregate.mode!==je.g.FULL&&this.featAggregate.initializeRecording(je.g.FULL,!0):(this.#i=je.g.FULL,this.#s(t.Qb.API),this.recorder&&this.recorder.parent.mode!==je.g.FULL&&(this.recorder.parent.mode=je.g.FULL,this.recorder.stopRecording(),this.recorder.startRecording(),this.abortHandler=this.recorder.stopRecording))}}var Ce=i(3962);class ke extends v{static featureName=Ce.TZ;constructor(e,t,r=!0){if(super(e,t,Ce.TZ,r),!h.RI||!(0,A.dV)().o.MO)return;const n=we(this.ee),i=(0,q.u)(this.ee),o=()=>(0,E.p)("newURL",[(0,I.t)(),""+window.location],void 0,this.featureName,this.ee);n.on("pushState-end",o),n.on("replaceState-end",o);try{this.removeOnAbort=new AbortController}catch(e){}(0,N.sp)("popstate",(e=>(0,E.p)("newURL",[e.timeStamp,""+window.location],void 0,this.featureName,this.ee)),!0,this.removeOnAbort?.signal);let a=!1;const s=new((0,A.dV)().o.MO)(((e,t)=>{a||(a=!0,requestAnimationFrame((()=>{(0,E.p)("newDom",[(0,I.t)()],void 0,this.featureName,this.ee),a=!1})))})),c=(0,m.s)((e=>{(0,E.p)("newUIEvent",[e],void 0,this.featureName,this.ee),s.observe(document.body,{attributes:!0,childList:!0,subtree:!0,characterData:!0})}),100,{leading:!0});i.on("fn-start",(([e])=>{Ce.tC.includes(e?.type)&&c(e)}));for(let e of Ce.tC)document.addEventListener(e,(()=>{}));this.abortHandler=function(){this.removeOnAbort?.abort(),s.disconnect(),this.abortHandler=void 0},this.importAggregator({domObserver:s})}}var Le=i(7378);const De={},He=["appendChild","insertBefore","replaceChild"];function Me(e){const t=function(e){return(e||Z.ee).get("jsonp")}(e);if(!h.RI||De[t.debugId])return t;De[t.debugId]=!0;var r=(0,Y.YM)(t),n=/[?&](?:callback|cb)=([^&#]+)/,i=/(.*)\.([^.]+)/,o=/^(\w+)(\.|$)(.*)$/;function a(e,t){if(!e)return t;const r=e.match(o),n=r[1];return a(r[3],t[n])}return r.inPlace(Node.prototype,He,"dom-"),t.on("dom-start",(function(e){!function(e){if(!e||"string"!=typeof e.nodeName||"script"!==e.nodeName.toLowerCase())return;if("function"!=typeof e.addEventListener)return;var o=(s=e.src,c=s.match(n),c?c[1]:null);var s,c;if(!o)return;var u=function(e){var t=e.match(i);if(t&&t.length>=3)return{key:t[2],parent:a(t[1],window)};return{key:e,parent:window}}(o);if("function"!=typeof u.parent[u.key])return;var d={};function l(){t.emit("jsonp-end",[],d),e.removeEventListener("load",l,(0,N.jT)(!1)),e.removeEventListener("error",f,(0,N.jT)(!1))}function f(){t.emit("jsonp-error",[],d),t.emit("jsonp-end",[],d),e.removeEventListener("load",l,(0,N.jT)(!1)),e.removeEventListener("error",f,(0,N.jT)(!1))}r.inPlace(u.parent,[u.key],"cb-",d),e.addEventListener("load",l,(0,N.jT)(!1)),e.addEventListener("error",f,(0,N.jT)(!1)),t.emit("new-jsonp",[e.src],d)}(e[0])})),t}const Ke={};function Ue(e){const t=function(e){return(e||Z.ee).get("promise")}(e);if(Ke[t.debugId])return t;Ke[t.debugId]=!0;var r=t.context,n=(0,Y.YM)(t),i=h.gm.Promise;return i&&function(){function e(r){var o=t.context(),a=n(r,"executor-",o,null,!1);const s=Reflect.construct(i,[a],e);return t.context(s).getCtx=function(){return o},s}h.gm.Promise=e,Object.defineProperty(e,"name",{value:"Promise"}),e.toString=function(){return i.toString()},Object.setPrototypeOf(e,i),["all","race"].forEach((function(r){const n=i[r];e[r]=function(e){let i=!1;[...e||[]].forEach((e=>{this.resolve(e).then(a("all"===r),a(!1))}));const o=n.apply(this,arguments);return o;function a(e){return function(){t.emit("propagate",[null,!i],o,!1,!1),i=i||!e}}}})),["resolve","reject"].forEach((function(r){const n=i[r];e[r]=function(e){const r=n.apply(this,arguments);return e!==r&&t.emit("propagate",[e,!0],r,!1,!1),r}})),e.prototype=i.prototype;const o=i.prototype.then;i.prototype.then=function(...e){var i=this,a=r(i);a.promise=i,e[0]=n(e[0],"cb-",a,null,!1),e[1]=n(e[1],"cb-",a,null,!1);const s=o.apply(this,e);return a.nextPromise=s,t.emit("propagate",[i,!0],s,!1,!1),s},i.prototype.then[Y.Jt]=o,t.on("executor-start",(function(e){e[0]=n(e[0],"resolve-",this,null,!1),e[1]=n(e[1],"resolve-",this,null,!1)})),t.on("executor-err",(function(e,t,r){e[1](r)})),t.on("cb-end",(function(e,r,n){t.emit("propagate",[n,!0],this.nextPromise,!1,!1)})),t.on("propagate",(function(e,r,n){this.getCtx&&!r||(this.getCtx=function(){if(e instanceof Promise)var r=t.context(e);return r&&r.getCtx?r.getCtx():this})}))}(),t}const Ve={},Ge="setTimeout",Be="setInterval",Fe="clearTimeout",We="-start",ze=[Ge,"setImmediate",Be,Fe,"clearImmediate"];function qe(e){const t=function(e){return(e||Z.ee).get("timer")}(e);if(Ve[t.debugId]++)return t;Ve[t.debugId]=1;var r=(0,Y.YM)(t);return r.inPlace(h.gm,ze.slice(0,2),Ge+"-"),r.inPlace(h.gm,ze.slice(2,3),Be+"-"),r.inPlace(h.gm,ze.slice(3),Fe+"-"),t.on(Be+We,(function(e,t,n){e[0]=r(e[0],"fn-",null,n)})),t.on(Ge+We,(function(e,t,n){this.method=n,this.timerDuration=isNaN(e[1])?0:+e[1],e[0]=r(e[0],"fn-",this,n)})),t}const Ze={};function Ye(e){const t=function(e){return(e||Z.ee).get("mutation")}(e);if(!h.RI||Ze[t.debugId])return t;Ze[t.debugId]=!0;var r=(0,Y.YM)(t),n=h.gm.MutationObserver;return n&&(window.MutationObserver=function(e){return this instanceof n?new n(r(e,"fn-")):n.apply(this,arguments)},MutationObserver.prototype=n.prototype),t}const{TZ:Xe,d3:Je,Kp:Qe,$p:$e,wW:et,e5:tt,tH:rt,uP:nt,rw:it,Lc:ot}=Le;class at extends v{static featureName=Xe;constructor(e,t,r=!0){if(super(e,t,Xe,r),!h.RI)return;try{this.removeOnAbort=new AbortController}catch(e){}let n,i=0;const o=this.ee.get("tracer"),a=Me(this.ee),s=Ue(this.ee),c=qe(this.ee),u=Q(this.ee),d=this.ee.get("events"),l=se(this.ee),f=we(this.ee),g=Ye(this.ee);function p(e,t){f.emit("newURL",[""+window.location,t])}function m(){i++,n=window.location.hash,this[nt]=(0,I.t)()}function v(){i--,window.location.hash!==n&&p(0,!0);var e=(0,I.t)();this[tt]=~~this[tt]+e-this[nt],this[ot]=e}function b(e,t){e.on(t,(function(){this[t]=(0,I.t)()}))}this.ee.on(nt,m),s.on(it,m),a.on(it,m),this.ee.on(ot,v),s.on(et,v),a.on(et,v),this.ee.on("fn-err",((...t)=>{t[2]?.__newrelic?.[e]||(0,E.p)("function-err",[...t],void 0,this.featureName,this.ee)})),this.ee.buffer([nt,ot,"xhr-resolved"],this.featureName),d.buffer([nt],this.featureName),c.buffer(["setTimeout"+Qe,"clearTimeout"+Je,nt],this.featureName),u.buffer([nt,"new-xhr","send-xhr"+Je],this.featureName),l.buffer([rt+Je,rt+"-done",rt+$e+Je,rt+$e+Qe],this.featureName),f.buffer(["newURL"],this.featureName),g.buffer([nt],this.featureName),s.buffer(["propagate",it,et,"executor-err","resolve"+Je],this.featureName),o.buffer([nt,"no-"+nt],this.featureName),a.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"],this.featureName),b(l,rt+Je),b(l,rt+"-done"),b(a,"new-jsonp"),b(a,"jsonp-end"),b(a,"cb-start"),f.on("pushState-end",p),f.on("replaceState-end",p),window.addEventListener("hashchange",p,(0,N.jT)(!0,this.removeOnAbort?.signal)),window.addEventListener("load",p,(0,N.jT)(!0,this.removeOnAbort?.signal)),window.addEventListener("popstate",(function(){p(0,i>1)}),(0,N.jT)(!0,this.removeOnAbort?.signal)),this.abortHandler=this.#n,this.importAggregator()}#n(){this.removeOnAbort?.abort(),this.abortHandler=void 0}}var st=i(3333);class ct extends v{static featureName=st.TZ;constructor(e,t,r=!0){super(e,t,st.TZ,r);const n=(0,a.D0)(this.agentIdentifier),i=[n.page_action.enabled,n.user_actions.enabled];h.RI&&n.user_actions.enabled&&(st.Zp.forEach((e=>(0,N.sp)(e,(e=>(0,E.p)("ua",[e],void 0,this.featureName,this.ee)),!0))),st.qN.forEach((e=>(0,N.sp)(e,(e=>(0,E.p)("ua",[e],void 0,this.featureName,this.ee)))))),i.some((e=>e))?this.importAggregator():(0,d.x3)(this.agentIdentifier,this.featureName)}}var ut=i(993),dt=i(3785);class lt extends v{static featureName=ut.TZ;constructor(e,t,r=!0){super(e,t,ut.TZ,r);const n=this.ee;this.ee.on("wrap-logger-end",(function([e]){const{level:t,customAttributes:r}=this;(0,dt.R)(n,e,r,t)})),this.importAggregator()}}new class extends n{constructor(t,r){super(r),h.gm?(this.sharedAggregator=new x({agentIdentifier:this.agentIdentifier}),this.features={},(0,A.bQ)(this.agentIdentifier,this),this.desiredFeatures=new Set(t.features||[]),this.desiredFeatures.add(y),this.runSoftNavOverSpa=[...this.desiredFeatures].some((e=>e.featureName===o.K.softNav)),(0,u.j)(this,t,t.loaderType||"agent"),this.run()):(0,e.R)(21)}get config(){return{info:this.info,init:this.init,loader_config:this.loader_config,runtime:this.runtime}}run(){try{const t=c(this.agentIdentifier),r=[...this.desiredFeatures];r.sort(((e,t)=>o.P[e.featureName]-o.P[t.featureName])),r.forEach((r=>{if(!t[r.featureName]&&r.featureName!==o.K.pageViewEvent)return;if(this.runSoftNavOverSpa&&r.featureName===o.K.spa)return;if(!this.runSoftNavOverSpa&&r.featureName===o.K.softNav)return;const n=function(e){switch(e){case o.K.ajax:return[o.K.jserrors];case o.K.sessionTrace:return[o.K.ajax,o.K.pageViewEvent];case o.K.sessionReplay:return[o.K.sessionTrace];case o.K.pageViewTiming:return[o.K.pageViewEvent];default:return[]}}(r.featureName).filter((e=>!(e in this.features)));n.length>0&&(0,e.R)(36,{targetFeature:r.featureName,missingDependencies:n}),this.features[r.featureName]=new r(this.agentIdentifier,this.sharedAggregator)}))}catch(t){(0,e.R)(22,t);for(const e in this.features)this.features[e].abortHandler?.();const r=(0,A.Zm)();delete r.initializedAgents[this.agentIdentifier]?.api,delete r.initializedAgents[this.agentIdentifier]?.features,delete this.sharedAggregator;return r.ee.get(this.agentIdentifier).abort(),!1}}}({features:[me,y,_,_e,Pe,P,U,ct,lt,ke,at],loaderType:"spa"})})()})();</script>
+<meta http-equiv="Content-Language" content="en">
+<meta name="description" content="Buy Instagram followers from Goread starting at $1.24. 100% real, safe service with instant delivery. Get up to 400K IG followers now!">
+<meta name="keywords" content="goread.io instagram followers, goread followers, buy instagram followers, instagram followers,  buy instagram likes, buy followers, buying instagram followers, instagram followers buy, buy real instagram followers, buy ig followers, cheap instagram followers, buy followers on instagram,  buy instagram followers cheap, real instagram followers                                                         ">
+<title>Buy Instagram Followers - 100% Real, Instant | Only $1.24</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://goread.io/assets/uploads/usereb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f/bd81e54effbcc265ad169015455a0c1e.png">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<link rel="stylesheet" href="https://goread.io/assets/plugins/font-awesome/css/font-awesome.min.css">
+
+
+<link href="https://goread.io/assets/css/core.css" rel="stylesheet">
+
+<link rel="stylesheet" href="https://goread.io/themes/pergo/assets/plugins/aos/dist/aos.css">
+
+<link rel="stylesheet" type="text/css" href="https://goread.io/assets/plugins/jquery-toast/css/jquery.toast.css">
+<link rel="stylesheet" href="https://goread.io/assets/plugins/boostrap/colors.css" id="theme-stylesheet">
+
+<link rel="stylesheet" type="text/css" href="https://goread.io/assets/plugins/owlcarousel/dist/assets/owl.carousel.min.css">
+<link rel="stylesheet" type="text/css" href="https://goread.io/assets/plugins/owlcarousel/dist/assets/owl.theme.default.min.css">
+<link href="https://goread.io/assets/css/util.css" rel="stylesheet">
+<link href="https://goread.io/assets/css/user.css?key=1729059132" rel="stylesheet">
+<link href="https://goread.io/assets/css/footer.css?key=1729059132" rel="stylesheet">
+<link href="https://goread.io/assets/css/my_style.css?key=1729059132" rel="stylesheet">
+<script src="https://goread.io/assets/plugins/vendors/jquery-3.2.1.min.js"></script>
+<script src="https://goread.io/assets/plugins/owlcarousel/dist/owl.carousel.min.js"></script>
+<script>
+const APP_URL = 'https://goread.io/';
+const API_URL = 'https://goread.io//api';
+console.log(APP_URL);
+console.log(API_URL);
+  </script>
+<script type="text/javascript">
+    var token = '32b67ded3ea14cf0d06f15d6d47897a1',
+
+      PATH = 'https://goread.io/',
+
+      BASE = 'https://goread.io/';
+
+    var deleteItem = 'Are you sure you want to delete this item?';
+
+    var deleteItems = 'Are you sure you want to delete all items?';
+  </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-157163062-1">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-157163062-1');
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-73SRTEBYMR">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-73SRTEBYMR');
+</script>
+<script type="application/json" id="weglot-data">{"originalCanonicalUrl":"https://goread.io/buy-instagram-followers","allLanguageUrls":{"en":"https://goread.io/buy-instagram-followers?utm_source=google&utm_medium=cpc&utm_campaign=21341965897&utm_content=162886825813&utm_term=goread&gad_source=1&gclid=CjwKCAjwpbi4BhByEiwAMC8JnTeq2YoJvwqEJ83b7qqsZG-mpQmNGnruTLOPBtwf9-qbgGee__O10hoCY4EQAvD_BwE","pt":"https://goread.io/pt/buy-instagram-followers?utm_source=google&utm_medium=cpc&utm_campaign=21341965897&utm_content=162886825813&utm_term=goread&gad_source=1&gclid=CjwKCAjwpbi4BhByEiwAMC8JnTeq2YoJvwqEJ83b7qqsZG-mpQmNGnruTLOPBtwf9-qbgGee__O10hoCY4EQAvD_BwE","es":"https://goread.io/es/buy-instagram-followers?utm_source=google&utm_medium=cpc&utm_campaign=21341965897&utm_content=162886825813&utm_term=goread&gad_source=1&gclid=CjwKCAjwpbi4BhByEiwAMC8JnTeq2YoJvwqEJ83b7qqsZG-mpQmNGnruTLOPBtwf9-qbgGee__O10hoCY4EQAvD_BwE","fr":"https://goread.io/fr/buy-instagram-followers?utm_source=google&utm_medium=cpc&utm_campaign=21341965897&utm_content=162886825813&utm_term=goread&gad_source=1&gclid=CjwKCAjwpbi4BhByEiwAMC8JnTeq2YoJvwqEJ83b7qqsZG-mpQmNGnruTLOPBtwf9-qbgGee__O10hoCY4EQAvD_BwE","ar":"https://goread.io/ar/buy-instagram-followers?utm_source=google&utm_medium=cpc&utm_campaign=21341965897&utm_content=162886825813&utm_term=goread&gad_source=1&gclid=CjwKCAjwpbi4BhByEiwAMC8JnTeq2YoJvwqEJ83b7qqsZG-mpQmNGnruTLOPBtwf9-qbgGee__O10hoCY4EQAvD_BwE","de":"https://goread.io/de/buy-instagram-followers?utm_source=google&utm_medium=cpc&utm_campaign=21341965897&utm_content=162886825813&utm_term=goread&gad_source=1&gclid=CjwKCAjwpbi4BhByEiwAMC8JnTeq2YoJvwqEJ83b7qqsZG-mpQmNGnruTLOPBtwf9-qbgGee__O10hoCY4EQAvD_BwE","it":"https://goread.io/it/buy-instagram-followers?utm_source=google&utm_medium=cpc&utm_campaign=21341965897&utm_content=162886825813&utm_term=goread&gad_source=1&gclid=CjwKCAjwpbi4BhByEiwAMC8JnTeq2YoJvwqEJ83b7qqsZG-mpQmNGnruTLOPBtwf9-qbgGee__O10hoCY4EQAvD_BwE","ro":"https://goread.io/ro/buy-instagram-followers?utm_source=google&utm_medium=cpc&utm_campaign=21341965897&utm_content=162886825813&utm_term=goread&gad_source=1&gclid=CjwKCAjwpbi4BhByEiwAMC8JnTeq2YoJvwqEJ83b7qqsZG-mpQmNGnruTLOPBtwf9-qbgGee__O10hoCY4EQAvD_BwE"},"originalPath":"/buy-instagram-followers","settings":{"website":"https://goread.io","uid":"62c76e4551","project_slug":"goread","deleted_at":null,"api_key_translate":"wg_688aa07b75c0d030fc3e9712c70cbd9d5","language_from":"en","language_from_custom_flag":null,"language_from_custom_name":null,"auto_switch":true,"auto_switch_fallback":null,"translation_engine":3,"excluded_paths":[],"excluded_blocks":[],"dynamics":[],"custom_settings":{"button_style":{"with_name":true,"full_name":true,"is_dropdown":true,"with_flags":true,"flag_type":"rectangle_mat","custom_css":""},"switchers":[],"translate_search":false,"loading_bar":true,"hide_switcher":false,"translate_images":false,"subdomain":false,"wait_transition":true,"dynamic":""},"media_enabled":false,"external_enabled":false,"page_views_enabled":true,"versions":{"translation":1728617809},"pending_translation_enabled":false,"curl_ssl_check_enabled":true,"languages":[{"language_to":"pt","custom_code":null,"custom_name":null,"custom_local_name":null,"provider":null,"enabled":true,"automatic_translation_enabled":true,"deleted_at":null,"connect_host_destination":null,"custom_flag":null},{"language_to":"es","custom_code":null,"custom_name":null,"custom_local_name":null,"provider":null,"enabled":true,"automatic_translation_enabled":true,"deleted_at":null,"connect_host_destination":null,"custom_flag":null},{"language_to":"fr","custom_code":null,"custom_name":null,"custom_local_name":null,"provider":null,"enabled":true,"automatic_translation_enabled":true,"deleted_at":null,"connect_host_destination":null,"custom_flag":null},{"language_to":"ar","custom_code":null,"custom_name":null,"custom_local_name":null,"provider":null,"enabled":true,"automatic_translation_enabled":true,"deleted_at":null,"connect_host_destination":null,"custom_flag":null},{"language_to":"de","custom_code":null,"custom_name":null,"custom_local_name":null,"provider":null,"enabled":true,"automatic_translation_enabled":true,"deleted_at":null,"connect_host_destination":null,"custom_flag":null},{"language_to":"it","custom_code":null,"custom_name":null,"custom_local_name":null,"provider":null,"enabled":true,"automatic_translation_enabled":true,"deleted_at":null,"connect_host_destination":null,"custom_flag":null},{"language_to":"ro","custom_code":null,"custom_name":null,"custom_local_name":null,"provider":null,"enabled":true,"automatic_translation_enabled":true,"deleted_at":null,"connect_host_destination":null,"custom_flag":null}],"category":13,"organization_slug":"w-2386d77d44","technology_id":12,"technology_name":"Other","host":"goread.io","is_https":true,"url_type":"SUBDIRECTORY","is_dns_set":true,"main_record":"goread-prod-650751769.us-east-2.elb.amazonaws.com","cacheVersion":3,"cachedSettings":true}}</script>
+<script type="text/javascript" src="https://cdn.weglot.com/weglot.min.js"></script>
+<script>
+    Weglot.initialize({
+        api_key: 'wg_30a22ff6c2b258c875caebf6598ff5857'
+    });
+</script>
+
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-157163062-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src="https://www.google-analytics.com/analytics.js"></script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N47LGXKH');</script>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-480352125"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-480352125');
+</script>
+
+<script>
+  gtag('event', 'conversion', {
+      'send_to': 'AW-480352125/_vahCJTLxKcCEP2uhuUB',
+      'transaction_id': ''
+  });
+</script>
+<script id="pixel-script-poptin" src="https://cdn.popt.in/pixel.js?id=0f6161747e41e" async="true"></script>
+
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1109572050175951');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1109572050175951&ev=PageView&noscript=1"></noscript>
+
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"97096065", enableAutoSpaTracking: true};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
+
+
+
+</head>
+<body class="gor-user">
+<div id="page-overlay" class="visible incoming">
+<div class="loader-wrapper-outer">
+<div class="loader-wrapper-inner">
+<div class="lds-double-ring">
+<div></div>
+<div></div>
+<div>
+<div></div>
+</div>
+<div>
+<div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<header class="header fixed-top" id="headerNav">
+<div id="flash_banner_wrapper" style="display:none">
+<div class="container justify-content-center">
+<div class="flash_banner text-center">
+<span class="flash_sale_white flash_banner_logo"><img src="https://goread.io/assets/images/flash_sale_white.png" alt="sale.png"></span>
+<span class="flash_sale flash_banner_logo"><img src="https://goread.io/assets/images/flash_sale.png" alt="sale.png"></span>
+<div class="flash_banner_text"><p>Flash Sale | <strong>50% OFF</strong> on Followers, Likes, Views</p></div>
+<span class="flash_banner_time_wrapper">
+<div class="flash_banner_time_cont">
+<span id="flash_time_hours">00</span>
+<span class="flash_time_label">Hour</span>
+</div>
+<div class="flash_banner_time_cont">
+<span id="flash_time_min">00</span>
+<span class="flash_time_label">Min</span>
+</div>
+<div class="flash_banner_time_cont">
+<span id="flash_time_sec">00</span>
+<span class="flash_time_label">Sec</span>
+</div>
+</span>
+<span id="flash_sale_close"><img src="" alt="close.png"></span>
+</div>
+</div>
+</div>
+<div class="container">
+<nav class="navbar navbar-expand-lg ">
+<a class="navbar-brand" href="#">
+<img class="site-logo-white" src="logoo.png" alt="Webstie logo">
+<img class="site-logo d-none" src="logoo.png" alt="Webstie logo">
+</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span><i class="fe fe-menu"></i></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav ml-auto">
+
+<li class="nav-item dropdown active">
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownFirstthree" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+Instagram Services
+</a>
+<ul class="dropdown-menu" aria-labelledby="navbarDropdownFirstthree">
+<li class="nav-item active">
+<a class="nav-link js-scroll-trigger" href="#">Buy Instagram Followers</a>
+</li>
+<li class="nav-item ">
+<a class="nav-link js-scroll-trigger" href="https://goread.io/buy-instagram-likes">Coming soon</a>
+</li>
+<li class="nav-item ">
+<a class="nav-link js-scroll-trigger" href="https://goread.io/buy-instagram-views">Coming soon</a>
+</li>
+</ul>
+</li>
+<li class="nav-item dropdown ">
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownTiktok" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+TikTok Services
+</a>
+<ul class="dropdown-menu" aria-labelledby="navbarDropdownTiktok">
+<li class="nav-item ">
+<a class="nav-link js-scroll-trigger" href="https://goread.io/buy-tiktok-followers">Coming soon</a>
+</li>
+<li class="nav-item ">
+<a class="nav-link js-scroll-trigger" href="https://goread.io/buy-tiktok-video-likes">Coming soon</a>
+</li>
+<li class="nav-item ">
+<a class="nav-link js-scroll-trigger" href="https://goread.io/buy-tiktok-video-views">Coming soon</a>
+</li>
+</ul>
+</li>
+<li class="nav-item dropdown ">
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownYoutube" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+YouTube Services
+</a>
+<ul class="dropdown-menu" aria-labelledby="navbarDropdownYoutube">
+<li class="nav-item ">
+<a class="nav-link js-scroll-trigger" href="https://goread.io/buy-youtube-views">Coming soon</a>
+</li>
+<li class="nav-item ">
+<a class="nav-link js-scroll-trigger" href="https://goread.io/buy-youtube-video-likes">Coming soon</a>
+</li>
+<li class="nav-item ">
+<a class="nav-link js-scroll-trigger" href="https://goread.io/buy-youtube-shorts-likes">Coming soon</a>
+</li>
+<li class="nav-item ">
+<a class="nav-link js-scroll-trigger" href="https://goread.io/buy-youtube-shorts-views">Coming soon</a>
+</li>
+</ul>
+</li>
+
+<li class="nav-item ">
+<a class="nav-link js-scroll-trigger" href="#">Blog</a>
+</li>
+<li class="nav-item ">
+<a class="nav-link js-scroll-trigger" href="#">FAQ</a>
+</li>
+<li class="nav-item ">
+<a class="nav-link js-scroll-trigger" href="https://wa.me/+94706801276">Contact</a>
+</li>
+<div class="my_switcher">
+
+
+</div>
+</ul>
+</div>
+</nav>
+</div>
+</header>
+<style>
+    .select-product-type-selection {
+        border-radius: 27px;
+        background-color: transparent;
+    }
+
+    .select-product-type-selection-n:first-child {
+        padding-left: 25px;
+        margin-right: 5px;
+    }
+
+    .select-product-type-selection-n:last-child {
+        padding-right: 20px;
+        margin-left: 5px;
+    }
+
+    .select-product-type-selection-n {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: row;
+        -moz-box-orient: horizontal;
+        -moz-box-direction: normal;
+        -ms-flex-direction: row;
+        flex-direction: row;
+        -webkit-box-align: center;
+        -webkit-align-items: center;
+        -moz-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        padding: 11px 31px;
+        border-radius: 8px;
+        position: relative;
+    }
+
+    .select-product-type-block .select-product-type-selection[data-active="0"] .select-product-type-selection-n.select-product-type-selection-0:before,
+    .select-product-type-block .select-product-type-selection[data-active="1"] .select-product-type-selection-n.select-product-type-selection-1:before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: #ff7c7c;
+        border-radius: 27px;
+        transition: left .3s ease, right .3s ease;
+    }
+
+    a.select-product-type-selection-n.active {
+        background: #059dff;
+        color: #ffffff;
+        float: left;
+        text-decoration: none;
+    }
+
+    .select-product-type-selection-n:hover {
+        background: #059dff;
+        color: #ffffff !important;
+    }
+
+    .select-product-type-selection {
+        display: flex;
+        justify-content: space-between;
+        width: auto;
+        max-width: fit-content;
+        margin: auto;
+    }
+
+    .select-product-type-selection a {
+        display: inline-block;
+        float: none;
+        color: #9aa0ac;
+    }
+
+    @media screen and (max-width: 480px) {
+        .select-product-type-selection .select-product-type-selection-n {
+            padding: 10px 15px;
+            font-size: 13px;
+        }
+    }
+
+    @media only screen and (min-width: 600px) {
+        .col-sm-6 {
+            flex: 0 0 50% !important;
+            max-width: 50% !important;
+        }
+
+        .col-sm-3 {
+            flex: 0 0 25% !important;
+            max-width: 25% !important;
+        }
+
+    }
+
+    .model {
+        margin-top: 12px;
+    }
+
+    button.close {
+        padding: 0;
+        background-color: transparent;
+        border: 0;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        position: absolute;
+        text-align: left;
+    }
+
+    .modal-header .close {
+        padding: 1rem 1rem;
+        margin: -1rem -1rem -1rem auto;
+        /* text-align: center; */
+        margin-left: 412px;
+    }
+
+    .modal-header {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-align: start;
+        align-items: flex-start;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+        padding: 1rem 1rem;
+
+        border-top-left-radius: 3px;
+        border-top-right-radius: 3px;
+    }
+
+    .features-item {
+        width: 200px;
+        border: 1px solid #3a4250;
+        border-radius: 13px;
+        max-width: 48%;
+        margin: 10px;
+        text-align: start;
+        padding: 10px;
+    }
+
+    .feature-title {
+        color: #181818;
+        background: #F1F3F7;
+        font-weight: bold;
+        font-size: 15px;
+        padding: 15px 10px;
+        border-radius: 12px 12px 0 0;
+        margin: -10px -10px 10px -10px;
+        text-transform: capitalize;
+    }
+
+    .features-item ul li {
+        font-size: 14px;
+    }
+
+    .features-block .features-item:last-child div {
+        background: #0f0f11;
+        color: #fff;
+    }
+
+    .tab-block .card {
+        background: transparent;
+        box-shadow: none;
+        border: 0;
+    }
+
+    .tab-block .nav-tabs {
+        border: 0;
+        margin: auto;
+    }
+
+    .tab-block .nav-tabs .nav-item {
+        padding: 0 5px 10px;
+    }
+
+    .tab-block .nav-tabs .nav-link {
+        display: block;
+        padding: 10px 20px;
+        text-decoration: none;
+        border-radius: 8px;
+        border: 0;
+    }
+
+    .tab-block .nav-tabs .nav-link.active,
+    .tab-block .nav-tabs .nav-link:hover {
+        background: #059dff;
+        color: #ffffff !important;
+    }
+
+    .tab-block .card .card-header {
+        border: 0;
+        padding: 10px 0;
+    }
+
+    .tab-block .card .inner-card .nav-tabs .nav-link {
+        background: #f5f8fa;
+        color: #181818;
+        padding: 15px 10px;
+        min-width: 90px;
+		width: auto;
+    }
+
+    .tab-block .card .inner-card .nav-tabs .nav-link.active,
+    .tab-block .card .inner-card .nav-tabs .nav-link:hover {
+        background: #fb5343;
+        color: #ffffff !important;
+    }
+
+    .tab-block .card .inner-card .card-body button {
+        line-height: 50px;
+        color: #fff;
+        font-size: 16px;
+        border-radius: 8px !important;
+        padding: 0 28px !important;
+        background: linear-gradient(95deg, #059dff 15%, #6549d5 45%, #e33fa1 75%, #fb5343 100%) 98%/200% 100%;
+        transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    }
+
+    .tab-block .card .inner-card .nav-tabs .nav-link h3 {
+        margin-bottom: 0;
+        font-size: 18px;
+        white-space: nowrap;
+    }
+
+    .tab-block .card .inner-card .nav-tabs .nav-link p {
+        margin-bottom: 0;
+        font-size: 14px;
+        white-space: nowrap;
+    }
+
+    .tab-block .card .inner-card {
+        padding: 30px 20px;
+        margin: auto;
+        width: 440px;
+        max-width: 90%;
+        border-radius: 10px;
+        background: #fff;
+        box-shadow: 0 4px 57px rgb(69 79 124 / 10%);
+    }
+
+    .tab-block .card .inner-card .card-body {
+        background: transparent;
+        box-shadow: none;
+    }
+
+    .tab-block .card .inner-card .card-body .amount {
+        color: #181818;
+        font-weight: 700;
+        font-size: 48px;
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        position: relative;
+    }
+
+    .tab-block .card .inner-card .card-body .amount sub {
+        font-size: 28px;
+        opacity: 0.3;
+        font-weight: 500;
+        top:33px;
+    }
+
+    @media (max-width: 410px) {
+        .tab-block .card .inner-card {
+            padding: 30px 10px;
+            max-width: 100%;
+        }
+
+        .tab-block .card .inner-card .nav-tabs .nav-link h3 {
+            font-size: 16px;
+        }
+
+        .tab-block .card .inner-card .nav-tabs .nav-link p {
+            font-size: 13px;
+        }
+
+        .tab-block .card .inner-card .nav-tabs .nav-link {
+            width: 80px;
+        }
+    }
+
+    @media screen and (max-width: 576px) {
+        .features-item {
+            width: 320px;
+            max-width: 90%;
+            margin: 20px auto 0;
+        }
+    }
+
+    @media screen and (max-width: 767px) {
+        #parent-tab li.nav-item {
+            width: 46%;
+            border-radius: 10px;
+            margin: 0 5px;
+            text-align: left;
+            border: 1px solid #d7d8da;
+        }
+
+        .active-dark-mode #parent-tab .nav-link,
+        .active-dark-mode #parent-tab .nav-link.active {
+            color: #acacac !important;
+        }
+
+        #parent-tab .nav-link {
+            margin: 0px -5px;
+            padding: 0;
+            border-radius: 10px 10px 0 0;
+            background: transparent;
+            color: #181818;
+        }
+
+        #parent-tab .nav-link .optional-block-inner-text2,
+        #parent-tab .nav-link .optional-block-inner-text1 {
+            background: #f5f8fa;
+            border-radius: 10px 10px 0 0;
+            width: 100%;
+            height: 70px;
+            display: flex;
+            align-items: center;
+            padding: 0 10px;
+            color: #181818;
+            font-weight: 600;
+        }
+
+        #parent-tab .nav-link.active {
+            color: #181818 !important;
+        }
+
+        #parent-tab .nav-link.active .optional-block-inner-text1,
+        #parent-tab .nav-link.active .optional-block-inner-text2 {
+            background: #059dff;
+            color: #fff;
+        }
+
+        #parent-tab .features-item {
+            width: auto;
+            border: none;
+            max-width: 100%;
+            margin: 0px auto;
+        }
+
+        span.showmore {
+            position: absolute;
+            width: 100%;
+            left: 0;
+            bottom: 0;
+            display: block;
+            font-size: 12px;
+            text-decoration: underline;
+            height: 40px;
+            padding: 14px 20px 10px;
+            border-radius: 0 0 10px 10px;
+            background: linear-gradient(0deg, rgb(241 241 241) 60%, rgba(255, 255, 255, 0) 92%);
+            color: #fb5343;
+        }
+
+        span.showmore li {
+            font-size: 12px;
+        }
+
+        .expandible {
+            margin-bottom: 10px;
+        }
+
+        .active-dark-mode span.showmore {
+            background: linear-gradient(0deg, rgb(83 83 83) 60%, rgb(133 133 133 / 0%) 92%);
+            color: #ffffff;
+        }
+
+        .c-mark {
+            position: absolute;
+            right: 10px;
+            bottom: 6px;
+            display: block;
+        }
+
+        .check-mark {
+            position: relative;
+            height: 23px;
+            width: 23px;
+            background: #f95344;
+            border-radius: 8px;
+        }
+
+        .nav-link .check-mark:before {
+            font-family: "FontAwesome";
+            content: "\f00c";
+            font-size: 17px;
+            color: #fff;
+            opacity: 0;
+            top: 50%;
+            left: 50%;
+            position: absolute;
+            transform: translate(-50%, -50%);
+        }
+
+        a.nav-link.active .check-mark:before {
+            opacity: 1;
+        }
+    }
+         #faq-section h4 {
+          margin: 0 !important;
+   }
+         .group_go_accor .accordion-main .accordion__head{
+          padding: 5px 30px 5px 0 !important;
+  }
+          #faq-section h4 {
+        margin: 0 !important;
+         max-height: 32px;
+         vertical-align: middle;
+         display: inline-block;
+         width: 100%;      
+} 
+         @media screen and ( max-width: 767px ) {
+         #faq-section h4 {max-height: none;}
+}
+
+.started_now {
+    line-height: 50px;
+    color: #fff;
+    font-size: 16px;
+    border-radius: 8px !important;
+    padding: 0 28px !important;
+    background: linear-gradient(95deg, #059DFF 15%, #6549D5 45%, #E33FA1 75%, #FB5343 100%) 98% / 200% 100%;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    border: 0;
+    margin: 30px 0 60px;
+}
+
+.accordion-main .accordion__head h3:after, .accordion-main .accordion__head h3:before {
+    content: " ";
+    position: absolute;
+    right: 36px;
+    top: 50%;
+    margin-top: -1px;
+    width: 12px;
+    height: 2px;
+    background-color: #FF603C;
+    pointer-events: none;
+}
+.accordion-main .accordion__head h3 {
+    font-size: 15px !important;!i;!;
+    margin: 0 !important;
+    vertical-align: middle;
+    display: inline-block;
+    width: 100%;
+    padding-right: 50px !important;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #70717B;
+    font-weight: 500;
+    cursor: pointer;
+    padding-left: 17px;
+    transition: color .4s;
+}
+.accordion-main .accordion__head h4:after {
+    -webkit-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+    -webkit-transition: opacity .4s, -webkit-transform .4s;
+    transition: opacity .4s, -webkit-transform .4s;
+    -o-transition: transform .4s, opacity .4s;
+    transition: transform .4s, opacity .4s;
+    transition: transform .4s, opacity .4s, -webkit-transform .4s;
+}
+.accordion-main .accordion__head h3:after {
+    transform: rotate(90deg);
+}
+.accordion-main .accordion__group.active .accordion__head h3:after {
+    opacity: 0;
+}
+
+</style>
+
+<link rel="stylesheet" href="https://goread.io/assets/css/my_css.css?key=1729059132" id="theme-stylesheet">
+<section class="package-content text-center">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="pk-header">
+<div class="title">
+<h1 class="title-name"><strong>Buy Instagram Followers</strong> with Instant Delivery</h1>
+</div>
+<span class>Enhance Your Instagram with Immediate Results</span>
+
+</div>
+<div class="row">
+<div class="col-sm-3 col-md-4"></div>
+<div class="col-12">
+
+<div class="tab-block">
+<div class="card">
+<div class="card-header">
+<ul class="nav nav-tabs justify-content-center" role="tablist" id="parent-tab">
+<li class="nav-item d-block s-md-flex">
+<a class="nav-link active" data-toggle="tab" href="#high_quality_followers" role="tab" title>
+<span data-title="High-Quality Followers" class="optional-block-inner-text1">High-Quality Followers</span>
+<div>
+<div class="features-item d-block d-md-none">
+<ul class="features list-unstyled leading-loose expandible">
+<li><i class="fe fe-check text-icon" aria-hidden="true"></i> High Quality</li>
+<li><i class="fe fe-check text-icon" aria-hidden="true"></i> <strong>Instant Delivery</strong> Guaranteed</li>
+<li><i class="fe fe-check text-icon" aria-hidden="true"></i> <strong>No Password</strong> Needed</li>
+<li><i class="fe fe-check text-icon" aria-hidden="true"></i> <strong>24/7</strong> Support</li>
+</ul>
+</div>
+<div id="custom-mark" class="d-block d-md-none c-mark">
+<div class="check-mark"></div>
+</div>
+</div>
+</a>
+</li>
+
+</ul>
+</div>
+<div class="card-body p-0 mt-4 mt-md-0">
+
+<div class="tab-content text-center">
+<div class="tab-pane active" id="high_quality_followers" role="tabpanel">
+<div class="card inner-card">
+<div class="card-header">
+<ul class="nav nav-tabs justify-content-center" role="tablist">
+<li class="nav-item Followers-60">
+<a class="nav-link " data-serv-name="Followers" data-toggle="tab" href="#75follower" role="tab">
+<div class="number">60</div>
+<p>Save 50%</p>
+</a>
+</li>
+<li class="nav-item Followers-50">
+<a class="nav-link " data-serv-name="Followers" data-toggle="tab" href="#56follower" role="tab">
+<div class="number">20</div>
+<p>Free</p>
+</a>
+</li>
+<li class="nav-item Followers-100">
+<a class="nav-link " data-serv-name="Followers" data-toggle="tab" href="#7follower" role="tab">
+<div class="number">50</div>
+<p>Save 10%</p>
+</a>
+</li>
+<li class="nav-item Followers-300">
+<a class="nav-link " data-serv-name="Followers" data-toggle="tab" href="#6follower" role="tab">
+<div class="number">100</div>
+<p>Save 15%</p>
+</a>
+</li>
+<li class="nav-item Followers-500">
+<a class="nav-link " data-serv-name="Followers" data-toggle="tab" href="#116follower" role="tab">
+<div class="number">200</div>
+<p>Save 15%</p>
+</a>
+</li>
+<li class="nav-item Followers-1000">
+<a class="nav-link active" data-serv-name="Followers" data-toggle="tab" href="#10follower" role="tab">
+<div class="number">500</div>
+<p>Save 15%</p>
+</a>
+</li>
+<li class="nav-item Followers-2500">
+<a class="nav-link " data-serv-name="Followers" data-toggle="tab" href="#16follower" role="tab">
+<div class="number">750</div>
+<p>Save 15%</p>
+</a>
+</li>
+<li class="nav-item Followers-5000">
+<a class="nav-link " data-serv-name="Followers" data-toggle="tab" href="#15follower" role="tab">
+<div class="number">1000</div>
+<p>Save 20%</p>
+</a>
+</li>
+<li class="nav-item Followers-10000">
+<a class="nav-link " data-serv-name="Followers" data-toggle="tab" href="#53follower" role="tab">
+<div class="number">2000</div>
+<p>Save 25%</p>
+</a>
+</li>
+<li class="nav-item Followers-20000">
+<a class="nav-link " data-serv-name="Followers" data-toggle="tab" href="#64follower" role="tab">
+<div class="number">5000</div>
+<p>Save 30%</p>
+</a>
+</li>
+<li class="nav-item Followers-40000">
+<a class="nav-link " data-serv-name="Followers" data-toggle="tab" href="#76follower" role="tab">
+<div class="number">10,000</div>
+<p>Save 30%</p>
+</a>
+</li>
+<li class="nav-item Followers-50000">
+<a class="nav-link " data-serv-name="Followers" data-toggle="tab" href="#73follower" role="tab">
+<div class="number">20,000</div>
+<p>Save 35%</p>
+</a>
+</li>
+<li class="nav-item Followers-100000">
+<a class="nav-link " data-serv-name="Followers" data-toggle="tab" href="#74follower" role="tab">
+<div class="number">40,000</div>
+<p>Save 40%</p>
+</a>
+</li>
+<li class="nav-item Followers-200000">
+<a class="nav-link " data-serv-name="Followers" data-toggle="tab" href="#84follower" role="tab">
+<div class="number">50,000</div>
+<p>Save 50%</p>
+</a>
+</li>
+<li class="nav-item Followers-400000">
+<a class="nav-link " data-serv-name="Followers" data-toggle="tab" href="#85follower" role="tab">
+<div class="number">100,000</div>
+<p>Save 60%</p>
+</a>
+</li>
+</ul>
+</div>
+<div class="card-body">
+
+<div class="tab-content text-center">
+<div class="tab-pane  " id="75follower" role="tabpanel">
+<div data-serv-name="Followers0" class="amount"><sub class="symbol 1">LKR</sub>
+<div id="myamount"> 0 </div></div>
+<button id="mybutton" onclick="window.location='https://api.whatsapp.com/send/?phone=%2B94706801276&text&type=phone_number&app_absent=0'" class="btn btn-color" type="button">Order Now</button>
+</div>
+<div class="tab-pane  " id="56follower" role="tabpanel">
+<div data-serv-name="Followers1" class="amount"><sub class="symbol 1">LKR</sub>
+<div id="myamount"> 0 </div></div>
+<button id="mybutton" onclick="window.location='https://api.whatsapp.com/send/?phone=%2B94706801276&text&type=phone_number&app_absent=0'" class="btn btn-color" type="button">Order Now</button>
+</div>
+<div class="tab-pane  " id="7follower" role="tabpanel">
+<div data-serv-name="Followers2" class="amount"><sub class="symbol 1">LKR</sub>
+<div id="myamount"> 49 </div></div>
+<button id="mybutton" onclick="window.location='https://api.whatsapp.com/send/?phone=%2B94706801276&text&type=phone_number&app_absent=0'" class="btn btn-color" type="button">Order Now</button>
+</div>
+<div class="tab-pane  " id="6follower" role="tabpanel">
+<div data-serv-name="Followers3" class="amount"><sub class="symbol 1">LKR</sub>
+<div id="myamount"> 99 </div></div>
+<button id="mybutton" onclick="window.location='https://api.whatsapp.com/send/?phone=%2B94706801276&text&type=phone_number&app_absent=0'" class="btn btn-color" type="button">Order Now</button>
+</div>
+<div class="tab-pane  " id="116follower" role="tabpanel">
+<div data-serv-name="Followers4" class="amount"><sub class="symbol 1">LKR</sub>
+<div id="myamount"> 199 </div></div>
+<button id="mybutton" onclick="window.location='https://api.whatsapp.com/send/?phone=%2B94706801276&text&type=phone_number&app_absent=0'" class="btn btn-color" type="button">Order Now</button>
+</div>
+<div class="tab-pane  active" id="10follower" role="tabpanel">
+<div data-serv-name="Followers5" class="amount"><sub class="symbol 1">LKR</sub>
+<div id="myamount"> 399 </div></div>
+<button id="mybutton" onclick="window.location='https://api.whatsapp.com/send/?phone=%2B94706801276&text&type=phone_number&app_absent=0'" class="btn btn-color" type="button">Order Now</button>
+</div>
+<div class="tab-pane  " id="16follower" role="tabpanel">
+<div data-serv-name="Followers6" class="amount"><sub class="symbol 1">LKR</sub>
+<div id="myamount"> 449 </div></div>
+<button id="mybutton" onclick="window.location='https://api.whatsapp.com/send/?phone=%2B94706801276&text&type=phone_number&app_absent=0'" class="btn btn-color" type="button">Order Now</button>
+</div>
+<div class="tab-pane  " id="15follower" role="tabpanel">
+<div data-serv-name="Followers7" class="amount"><sub class="symbol 1">LKR</sub>
+<div id="myamount"> 499 </div></div>
+<button id="mybutton" onclick="window.location='https://api.whatsapp.com/send/?phone=%2B94706801276&text&type=phone_number&app_absent=0'" class="btn btn-color" type="button">Order Now</button>
+</div>
+<div class="tab-pane  " id="53follower" role="tabpanel">
+<div data-serv-name="Followers8" class="amount"><sub class="symbol 1">LKR</sub>
+<div id="myamount"> 999 </div></div>
+<button id="mybutton" onclick="window.location='https://api.whatsapp.com/send/?phone=%2B94706801276&text&type=phone_number&app_absent=0'" class="btn btn-color" type="button">Order Now</button>
+</div>
+<div class="tab-pane  " id="64follower" role="tabpanel">
+<div data-serv-name="Followers9" class="amount"><sub class="symbol 1">LKR</sub>
+<div id="myamount"> 1,999 </div></div>
+<button id="mybutton" onclick="window.location='https://api.whatsapp.com/send/?phone=%2B94706801276&text&type=phone_number&app_absent=0'" class="btn btn-color" type="button">Order Now</button>
+</div>
+<div class="tab-pane  " id="76follower" role="tabpanel">
+<div data-serv-name="Followers10" class="amount"><sub class="symbol 1">LKR</sub>
+<div id="myamount"> 4,999 </div></div>
+<button id="mybutton" onclick="window.location='https://api.whatsapp.com/send/?phone=%2B94706801276&text&type=phone_number&app_absent=0'" class="btn btn-color" type="button">Order Now</button>
+</div>
+<div class="tab-pane  " id="73follower" role="tabpanel">
+<div data-serv-name="Followers11" class="amount"><sub class="symbol 1">LKR</sub>
+<div id="myamount"> 11,999 </div></div>
+<button id="mybutton" onclick="window.location='https://api.whatsapp.com/send/?phone=%2B94706801276&text&type=phone_number&app_absent=0'" class="btn btn-color" type="button">Order Now</button>
+</div>
+<div class="tab-pane  " id="74follower" role="tabpanel">
+<div data-serv-name="Followers12" class="amount"><sub class="symbol 1">LKR</sub>
+<div id="myamount"> 14,999 </div></div>
+<button id="mybutton" onclick="window.location='https://api.whatsapp.com/send/?phone=%2B94706801276&text&type=phone_number&app_absent=0'" class="btn btn-color" type="button">Order Now</button>
+</div>
+<div class="tab-pane  " id="84follower" role="tabpanel">
+<div data-serv-name="Followers13" class="amount"><sub class="symbol 1">LKR</sub>
+<div id="myamount"> 19,999 </div></div>
+<button id="mybutton" onclick="window.location='https://api.whatsapp.com/send/?phone=%2B94706801276&text&type=phone_number&app_absent=0'" class="btn btn-color" type="button">Order Now</button>
+</div>
+<div class="tab-pane  " id="85follower" role="tabpanel">
+<div data-serv-name="Followers14" class="amount"><sub class="symbol 1">LKR</sub>
+<div id="myamount"> 34,999 </div></div>
+<button id="mybutton" onclick="window.location='https://api.whatsapp.com/send/?phone=%2B94706801276&text&type=phone_number&app_absent=0'" class="btn btn-color" type="button">Order Now</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="tab-pane" id="active-followers" role="tabpanel">
+<div class="card inner-card">
+<div class="card-header">
+<ul class="nav nav-tabs justify-content-center" role="tablist">
+<li class="nav-item">
+<a class="nav-link " data-toggle="tab" href="#109follower" role="tab">
+<div class="number">800</div>
+<p>Save 50%</p>
+</a>
+</li>
+<li class="nav-item">
+<a class="nav-link active" data-toggle="tab" href="#108follower" role="tab">
+<div class="number">2,000</div>
+<p>Save 50%</p>
+</a>
+</li>
+<li class="nav-item">
+<a class="nav-link " data-toggle="tab" href="#110follower" role="tab">
+<div class="number">6,000</div>
+<p>Save 50%</p>
+</a>
+</li>
+<li class="nav-item">
+<a class="nav-link " data-toggle="tab" href="#111follower" role="tab">
+<div class="number">12,000</div>
+<p>Save 50%</p>
+</a>
+</li>
+</ul>
+</div>
+<div class="card-body">
+
+<div class="tab-content text-center">
+<div class="tab-pane " id="109follower" role="tabpanel">
+<div class="amount"><sub class="symbol 2">$</sub>
+8.00 </div>
+<button onclick="window.location='https://goread.io/checkout/selectproduct?service=68d07ca570872b6486e72f26d965060d'" class="btn btn-color" type="button">Order Now</button>
+</div>
+<div class="tab-pane active" id="108follower" role="tabpanel">
+<div class="amount"><sub class="symbol 2">$</sub>
+20.00 </div>
+<button onclick="window.location='https://goread.io/checkout/selectproduct?service=1f13536b4b2c87aaf321dc9fcde1fd51'" class="btn btn-color" type="button">Order Now</button>
+</div>
+<div class="tab-pane " id="110follower" role="tabpanel">
+<div class="amount"><sub class="symbol 2">$</sub>
+55.00 </div>
+<button onclick="window.location='https://goread.io/checkout/selectproduct?service=9087aef28850891f6fb47a880a5ff1cd'" class="btn btn-color" type="button">Order Now</button>
+</div>
+<div class="tab-pane " id="111follower" role="tabpanel">
+<div class="amount"><sub class="symbol 2">$</sub>
+100.00 </div>
+<button onclick="window.location='https://goread.io/checkout/selectproduct?service=ddcb495195c90a1164db79af2a27d8d6'" class="btn btn-color" type="button">Order Now</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="features-block d-none justify-content-center d-md-flex">
+<div class="features-item">
+<div class="feature-title">High-Quality Followers</div>
+<ul class="features list-unstyled leading-loose">
+<li><i class="fe fe-check text-icon" aria-hidden="true"></i> High Quality</li>
+
+<li><i class="fe fe-check text-icon" aria-hidden="true"></i> <strong>Instant Delivery</strong> Guaranteed</li>
+<li><i class="fe fe-check text-icon" aria-hidden="true"></i> <strong>No Password</strong> Needed</li>
+<li><i class="fe fe-check text-icon" aria-hidden="true"></i> <strong>24/7</strong> Support</li>
+</ul>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div></div></section>
+<section class="how-it-works text-center" data-aos="fade-up" data-aos-easing="ease" data-aos-duration="700">
+<div class="container">
+<div class="row ">
+<div class="col-md-12 mx-auto">
+<div class="header-top">
+<p class="gradient-text-block"><span class="gradient-text">Timeline</span></p>
+<h2 class="title">How To Buy a Package</h2>
+<span class>Buying social media packages from Goread.io is simple and fast. Just follow these steps. </span>
+</div>
+<div class="col-xl-10 offset-xl-1 col-lg-12 col-md-12">
+<div class="row step-lists">
+<div class="col-lg-4 col-md-4 step text-center">
+<div class="header-name">
+<h3>Choose Package</h3>
+<div class="progress-line">
+<div class="line-inner"></div>
+</div>
+<div class="progress-dot">
+<div class="dot-level">
+<div class="dot-inner"></div>
+</div>
+</div>
+<p class="desc">Getting started with us is easy. Choose from our wide range of Instagram marketing packages that cater to your requirements.</p>
+</div>
+
+</div>
+<div class="col-lg-4 col-md-4 step text-center">
+<div class="header-name">
+<h3> Place Order</h3>
+<div class="progress-line">
+<div class="line-inner"></div>
+</div>
+<div class="progress-dot">
+<div class="dot-level">
+<div class="dot-inner"></div>
+</div>
+</div>
+<p class="desc">Click the "Order Now" button on your chosen service, and our admin will contact you quickly to process your order. For questions, reach out to our support team.</p>
+</div>
+
+</div>
+<div class="col-lg-4 col-md-4 step text-center">
+<div class="header-name">
+<h3>Wait for Results</h3>
+<div class="progress-line">
+<div class="line-inner"></div>
+</div>
+<div class="progress-dot">
+<div class="dot-level">
+<div class="dot-inner"></div>
+</div>
+</div>
+<p class="desc">Once our support team accepts your order, please wait, and it will be completed within 15 minutes. Feel free to contact us if you have any questions.</p>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="category-content text-center">
+<div class="container">
+<div class="row">
+<div class="col-12">
+<h2>Why Does Instagram Follower Count Matter?</h2>
+<p>As of 2024, Instagram is still one of the world’s most popular social platforms. It now boasts over 1.4 billion active users. Instagram’s visual focus makes it easy to showcase products, services, and other content. The ability to reach a large audience is a huge advantage.</p>
+<p>A key metric on Instagram is your follower count. Having more followers boosts credibility, increases reach, and encourages organic engagement. In this section, we’ll explore why follower count matters and why some choose to buy followers.
+</p>
+<button class="started_now">Get Started Now</button>
+
+
+
+
+
+
+
+
+
+
+<h2>The bottom line: what you need to know! Here's a quick rundown of the key takeaways:</h2>
+<ul>
+<li>Buying Instagram followers can bring clear benefits, but choose your service wisely.</li>
+<li>Social proof, credibility, and visibility go hand-in-hand.</li>
+<li>Quality content always beats quantity.</li>
+<li>Real human followers are always better than fake bots and phony accounts.</li>
+<li>Potential followers can spot bots from a mile away and steer clear of those accounts.</li>
+<li>Do your research! Check reviews, press releases, and BBB accounts before choosing a growth provider.</li>
+<li>With a credible service like Goread.io, buying <a href="https://goread.io/free-instagram-followers">followers</a>, <a href="https://goread.io/buy-instagram-likes">likes</a>, and <a href="https://goread.io/buy-instagram-views">views</a> won't get you banned.</li>
+<li>Learn <a href="https://goread.io/resources/losing-instagram-followers-strategies-to-retain-them">strategies to retain Instagram followers</a> and keep your audience engaged long-term.</li>
+<li>Discover <a href="https://goread.io/resources/how-to-get-1k-followers-on-instagram-in-5-minutes-and-keep-them">how to gain 1K Instagram followers in 5 minutes</a> and maintain them effortlessly.</li>
+<li>Goread.io never puts your account at risk of being flagged or deleted.</li>
+<li>Avoid too many sales-pitch posts for better engagement.</li>
+<li>Unify your social media accounts and keep your posts consistent.</li>
+<li>Leverage your large Insta following to grow your presence on other platforms like Facebook and Twitter.</li>
+<li>Keep these things in mind and grow your profile safely with Goread.io's top-notch growth tools. Trust us, trust in your new followers, and trust in your growth.</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<div>
+<div class="rn-gradient-circle"></div>
+<div class="rn-gradient-circle theme-pink"></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+                            $('#submitReview').on('submit', function(e) {
+                                e.preventDefault();
+                                var $this = $(this);
+
+                                $.ajax({
+                                  url: '/instagram_growth/get_csrf_token',
+                                  type: 'GET',
+                                  dataType: 'json',
+                                  success: function(response) {
+                                      $($this).find('#csrf_token').attr('name',response.csrf_token_name);
+                                      $($this).find('#csrf_token').val(response.csrf_token);
+
+                                        $.ajax({
+                                            url: 'https://goread.io/review/store',
+                                            method: $this.prop('method'),
+                                            dataType: 'json', //3
+                                            data: $this.serialize(), //4
+                                        }).done(function(response) {
+                                            if (response.status == 1) {
+                                                $('#submitReview')[0].reset();
+                                                $(".error").show().html('');
+                                                $(".save-review-alert").empty().append('<div class="alert alert-icon content alert-success" role="alert"><span class="message">' + response.message + '</span></div>');
+                                            }
+                                            if (response.status == 2) {
+                                                $(".error").show().html('');
+
+                                                $.each(response.errors, function(key, error) {
+                                                    $("#" + key).show().html(error);
+                                                });
+                                            }
+                                        }).fail(function() {
+                                            $(".save-review-alert").empty().append('<div class="alert alert-icon content alert-danger" role="alert"><span class="message">Server error, Please try again.</span></div>');
+                                        });
+                                    },error: function(xhr, status, error) {
+                                          console.error(error);
+                                          $(".save-review-alert").empty().append('<div class="alert alert-icon content alert-danger" role="alert"><span class="message">Server error, Please try again.</span></div>');
+                                      }
+                                });      
+                            });
+                        </script>
+
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<div class="modal fade myModal" id="Followers-modal" role="dialog">
+<div class="modal-dialog">
+
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal"></button>
+<div class="modal-title">High Quality Followers</div>
+</div>
+<div class="modal-body">
+<p>These are good looking followers from good standing account. Auto-refill is enabled within the warranty.</p>
+</div>
+<div class="modal-header">
+<div class="modal-title">Active Followers</div>
+</div>
+<div class="modal-body">
+<p>New Active followers are for those who are serious about their Instagram growth. These are super real looking accounts with a very low drop rate.</p>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('.pk-lists.active_tab').hide();
+        $('.select-product-type-selection-0, .select-product-type-selection-1').click(function() {
+            $('.select-product-type-selection-0, .select-product-type-selection-1').removeClass('active');
+            $(this).addClass('active');
+            var tabid = $(this).data('tabid');
+            $('.pk-lists').hide();
+            $('.' + tabid).show();
+        });
+
+        var selected_amount = $('#myamount').text();
+        if(selected_amount == 0.00){
+            $('#mybutton').css('pointer-events','none');
+        }
+    });
+</script>
+<script>
+    $('ul.expandible').each(function() {
+        var $ul = $(this),
+            $lis = $ul.find('li:gt(1)'),
+            isExpanded = $ul.hasClass('expanded');
+        $lis[isExpanded ? 'show' : 'hide']();
+
+        if ($lis.length > 0) {
+            $ul
+                .append($('<span class="showmore"><li class="expand">' + (isExpanded ? 'Show Less' : 'Show More') + '</li></span>')
+                    .click(function(event) {
+                        var isExpanded = $ul.hasClass('expanded');
+                        event.preventDefault();
+                        $(this).html(isExpanded ? 'Show More' : 'Show Less');
+                        $ul.toggleClass('expanded');
+                        $lis.toggle();
+                    }));
+        }
+    });
+</script>
+<script>
+    $(".started_now").click(function() {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+</script>
+<script type="application/ld+json">
+	{
+		"@context": "https://schema.org/",
+		"@type": "Product",
+		"name": "Buy Instagram Followers",
+		"url": "#",
+		"image": "logoo.png",
+		"description": "Buy Instagram followers from Goread starting at $1.24. 100% real, safe service with instant delivery. Get up to 400K IG followers now!",
+		"brand": {
+			"@type": "Thing",
+			"name": "GoreAd.io"
+		},
+				"aggregateRating": {
+			"@type": "AggregateRating",
+			"worstRating": "1",
+			"bestRating": "5",
+			"ratingValue": "5",
+			"ratingCount": "84"
+		},
+				"offers": {
+			"@type": "AggregateOffer",
+			"lowPrice": "0.00",
+			"highPrice": "600.00",
+			"priceCurrency": "USD",
+			"offerCount": "19",
+			"offers": [
+								{
+						"@type": "Offer",
+						"priceCurrency": "USD",
+						"price": "0.50",
+						"name": "60 Instagram Followers",
+						"itemCondition": "https://schema.org/NewCondition",
+						"availability": "https://schema.org/InStock",
+						"seller": {
+							"@type": "Organization",
+							"name": "GoreAd.io"
+						}
+					},									{
+						"@type": "Offer",
+						"priceCurrency": "USD",
+						"price": "1.13",
+						"name": "50 Instagram Followers",
+						"itemCondition": "https://schema.org/NewCondition",
+						"availability": "https://schema.org/InStock",
+						"seller": {
+							"@type": "Organization",
+							"name": "GoreAd.io"
+						}
+					},									{
+						"@type": "Offer",
+						"priceCurrency": "USD",
+						"price": "1.38",
+						"name": "100 Instagram Followers",
+						"itemCondition": "https://schema.org/NewCondition",
+						"availability": "https://schema.org/InStock",
+						"seller": {
+							"@type": "Organization",
+							"name": "GoreAd.io"
+						}
+					},									{
+						"@type": "Offer",
+						"priceCurrency": "USD",
+						"price": "2.08",
+						"name": "300 Instagram Followers",
+						"itemCondition": "https://schema.org/NewCondition",
+						"availability": "https://schema.org/InStock",
+						"seller": {
+							"@type": "Organization",
+							"name": "GoreAd.io"
+						}
+					},									{
+						"@type": "Offer",
+						"priceCurrency": "USD",
+						"price": "3.38",
+						"name": "500 Instagram Followers",
+						"itemCondition": "https://schema.org/NewCondition",
+						"availability": "https://schema.org/InStock",
+						"seller": {
+							"@type": "Organization",
+							"name": "GoreAd.io"
+						}
+					},									{
+						"@type": "Offer",
+						"priceCurrency": "USD",
+						"price": "5.95",
+						"name": "1000 Instagram Followers",
+						"itemCondition": "https://schema.org/NewCondition",
+						"availability": "https://schema.org/InStock",
+						"seller": {
+							"@type": "Organization",
+							"name": "GoreAd.io"
+						}
+					},									{
+						"@type": "Offer",
+						"priceCurrency": "USD",
+						"price": "8.00",
+						"name": "800 Instagram Followers",
+						"itemCondition": "https://schema.org/NewCondition",
+						"availability": "https://schema.org/InStock",
+						"seller": {
+							"@type": "Organization",
+							"name": "GoreAd.io"
+						}
+					},									{
+						"@type": "Offer",
+						"priceCurrency": "USD",
+						"price": "13.50",
+						"name": "2500 Instagram Followers",
+						"itemCondition": "https://schema.org/NewCondition",
+						"availability": "https://schema.org/InStock",
+						"seller": {
+							"@type": "Organization",
+							"name": "GoreAd.io"
+						}
+					},									{
+						"@type": "Offer",
+						"priceCurrency": "USD",
+						"price": "19.75",
+						"name": "5000 Instagram Followers",
+						"itemCondition": "https://schema.org/NewCondition",
+						"availability": "https://schema.org/InStock",
+						"seller": {
+							"@type": "Organization",
+							"name": "GoreAd.io"
+						}
+					},									{
+						"@type": "Offer",
+						"priceCurrency": "USD",
+						"price": "20.00",
+						"name": "2000 Instagram Followers",
+						"itemCondition": "https://schema.org/NewCondition",
+						"availability": "https://schema.org/InStock",
+						"seller": {
+							"@type": "Organization",
+							"name": "GoreAd.io"
+						}
+					},									{
+						"@type": "Offer",
+						"priceCurrency": "USD",
+						"price": "29.50",
+						"name": "10000 Instagram Followers",
+						"itemCondition": "https://schema.org/NewCondition",
+						"availability": "https://schema.org/InStock",
+						"seller": {
+							"@type": "Organization",
+							"name": "GoreAd.io"
+						}
+					},									{
+						"@type": "Offer",
+						"priceCurrency": "USD",
+						"price": "50.00",
+						"name": "20000 Instagram Followers",
+						"itemCondition": "https://schema.org/NewCondition",
+						"availability": "https://schema.org/InStock",
+						"seller": {
+							"@type": "Organization",
+							"name": "GoreAd.io"
+						}
+					},									{
+						"@type": "Offer",
+						"priceCurrency": "USD",
+						"price": "55.00",
+						"name": "6000 Instagram Followers",
+						"itemCondition": "https://schema.org/NewCondition",
+						"availability": "https://schema.org/InStock",
+						"seller": {
+							"@type": "Organization",
+							"name": "GoreAd.io"
+						}
+					},									{
+						"@type": "Offer",
+						"priceCurrency": "USD",
+						"price": "75.50",
+						"name": "40000 Instagram Followers",
+						"itemCondition": "https://schema.org/NewCondition",
+						"availability": "https://schema.org/InStock",
+						"seller": {
+							"@type": "Organization",
+							"name": "GoreAd.io"
+						}
+					},									{
+						"@type": "Offer",
+						"priceCurrency": "USD",
+						"price": "90.50",
+						"name": "50000 Instagram Followers",
+						"itemCondition": "https://schema.org/NewCondition",
+						"availability": "https://schema.org/InStock",
+						"seller": {
+							"@type": "Organization",
+							"name": "GoreAd.io"
+						}
+					},									{
+						"@type": "Offer",
+						"priceCurrency": "USD",
+						"price": "100.00",
+						"name": "12000 Instagram Followers",
+						"itemCondition": "https://schema.org/NewCondition",
+						"availability": "https://schema.org/InStock",
+						"seller": {
+							"@type": "Organization",
+							"name": "GoreAd.io"
+						}
+					},									{
+						"@type": "Offer",
+						"priceCurrency": "USD",
+						"price": "175.50",
+						"name": "100000 Instagram Followers",
+						"itemCondition": "https://schema.org/NewCondition",
+						"availability": "https://schema.org/InStock",
+						"seller": {
+							"@type": "Organization",
+							"name": "GoreAd.io"
+						}
+					},									{
+						"@type": "Offer",
+						"priceCurrency": "USD",
+						"price": "325.50",
+						"name": "200000 Instagram Followers",
+						"itemCondition": "https://schema.org/NewCondition",
+						"availability": "https://schema.org/InStock",
+						"seller": {
+							"@type": "Organization",
+							"name": "GoreAd.io"
+						}
+					},									{
+						"@type": "Offer",
+						"priceCurrency": "USD",
+						"price": "600.00",
+						"name": "400000 Instagram Followers",
+						"itemCondition": "https://schema.org/NewCondition",
+						"availability": "https://schema.org/InStock",
+						"seller": {
+							"@type": "Organization",
+							"name": "GoreAd.io"
+						}
+					}							]
+		},					"review": [
+							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Doggblitz4"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "I will not hesitate to give them 5 Stars. everything started to go up really quickly and then speed went down a little bit and then started going up in crazy speed. haha ! Thank you so much!”"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Marco Menjiva"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "It was so damn quick, followers went up in less than 1 hour"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "James"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Thanks for the followers, Now my profile looks cool"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Camila"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "I love this sote. 100% REAL FOLLOWERS!”
+"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "jamie"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "that was quick and i see a good engagement ratio from the ig followers i bought. thanks"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "mariah"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Haha. i just surpassed my girlfriend's IG followers amount. now i look like a celebrity with 25k followers"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "anurag"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "good deal"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Rabi"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Goread.io is my number 1 website to buy instagram followers, No doubt about it now. they never cease to amaze me"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "aussie guy"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "goread.io is my new favourits site to buy ig followers. cheers to amazing live support and instant delivery"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Nuwan"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "So awesome. they sent me 100 extra followers, so now i have total 600 followers. thank you"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Iwan"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Woah, it was so fast. got my 50 followers in 10 mins"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Johns"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Damn, it was so fast. got my 100 followers in 5 mins"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Jefferson"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Huh, How do they send 300 followers so fast?"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Uwan"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "well that was legit 500 ig followers"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "holy"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "omg, 50 followers are so real, i had a doubt before buying. but now feels relied "
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "ishara N"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "super fast 100 ig followers. thanx"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Omar"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Thank you"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Lukas"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Damn son, 100 ig folllowers in 10 mins. are you kidding me. lol"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Twinzie"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Well that's super dope 1000 ig followers"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Oshila"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Thank you for followers"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "paul"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "That was fast. awesome"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Daniela"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Yaaay, now my profile has 2500 ig followers. looks dope"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Jamies"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "good deal for 5000 followers"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "parker"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Great bargain for 10k ig followers. well done "
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Earl"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "What a deal for 10k followers"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Justin"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "It took a while for all 20k IG followers to arrive.  "
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Haylie"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Just after 24 hours, all my 20000 followers are there now. thank you"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Oshua"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "This price for for 50K followers is a super bargain. awesome"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Jason"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Sweet jesus. 100k insta followers for $999? well i am going to be a celebrity sooon"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Husen_ k_ paul"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Thank you "
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Kris"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "thank you for the quick delivery"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Badra"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Got my followers so fast. Awesome. I am going to order 10k ig follower package now"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Amber"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Well it was super quick. real followers. great"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Urwin"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Super fast followers. thnx man"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "justin"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "I have tried several web sites, this is by far the best website to buy instagram followers in my opinion"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Trump"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Best app to buy ig followers, hats off to the team goread.io"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Percy"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "got my 300 ig followers pretty fast. nice job "
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "paul"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "This is by far the cheapest offer i found for 300 Instagram followers on the market"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Precious"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "I was skeptical at first with the app but it really does work! 100% legit! "
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Jasmine"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "They came through in less than a minute and I got a few more than I paid for, will definitely do this again"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Bilal Abid"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "I got the followers in 30 mins. They decreased the next day but when I sent a message I got a very fast reply and they filled back up. EXCELLENT SERVICE!! 10/10"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Bruce"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "The best website for cheap followers. I got instant instagram followers."
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Jacklyn"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Was scared before purchasing but it came out good 100% real"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Mustavoh"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Thank you so much, Followers delivered safely and quickly within 24 hours."
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Kevin"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "So cool, Got my 5k followers in natural speed and it all looks good"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Chloe"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Amazing service and support! I needed a bit of traffic on my new Instagram page and it boost the Instagram followers very quickly. I am glad that I choose their services, will definitely come back for further purchases."
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Dorothy"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "I must admit that I was a bit skeptical at the beginning, but now I am super happy with the service. They really provide real Instagram followers and my account has never looked better. Thank you, I would definitely recommend their services."
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Penelope"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "This is a nice way to grow your local business. I placed the order and within an hour my account got already the followers. Of course, this generates more traffic and gets more authentic Instagram followers. After all, it is a nice deal."
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Melanie"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "A friend of mine recommended me goread.io and I gave it a try placing a small order at the beginning. I was so impressed with the way they deliver the service and I placed another big order straight away. Will not hesitate to come back when in need."
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "saaas"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "I had no idea that gaining new real Instagram followers can be so easy. Honestly, their communication is very quick and in no-time, you can have the order delivered. I am super happy and I highly recommend their service. My account looks amazing now."
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Rose"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "I cannot believe this is so quick! I think I will place another order with them as they offer distinctive service and compared with other companies on the market, goread.io really stands out, from my experience. The team is super professional and on-time delivery.
+
+"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Natalie"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Don’t hesitate to buy their service, it is legit and super quick. I bought some real Instagram followers and after that more and more people started to follow my account. It is quite a good idea if you want to grow your account and to attract more audience to your profile."
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Molly"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Instagram followers? Yes, please! Jeez, I cannot believe this is possible. It literally changed my online presence on social media completely. I am so happy that I placed an order with them! It is worth every penny spent. Followers attracting more followers, an amazing concept, I believe!"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Brandon"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "They provided me with a much-needed boost for my small business. They are a legit company and their services are really high-quality. I am happy with the purchase, I gained instant Instagram followers and this helped me already so much! Don’t hesitate if you are still thinking. Have a go!"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Connor"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Well, for sure my screen time got crazy during lockdown and I had a great idea to make something productive if I still spend so much time on Instagram all day. I found goread.io and I placed my first order. Having the new real Instagram followers helped me to gain more and more and now I have over 10k in just a few weeks. Happy with the order!"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Christian"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "It was incredibly fast and totally worth it. Having the Instagram followers helped me so much in my business and now the orders are just flowing. I highly recommend these guys here, they really know that they are doing. "
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Colin"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Although I heard loads of opinions on buying your followers and I had second thoughts, I wanted to give it a try to experience it myself. The service provided was excellent and my Instagram followers are growing every day after placing the order with them. Amazing stuff here! "
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Vanessa"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "I think I will be a very loyal buyer, as I am highly impressed with their service. Not to mention that my Instagram account looks stunning after adding a nice number to my Instagram followers. This thing really works and I cannot stress enough how important it is to have a popular account. "
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Virginia"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Very happy that I chose to buy some REAL Instagram followers. Honestly, it changes your world. You gain so much traffic on your page and even if it is not the best option,  I really think that it is an incredibly important step to take especially if you are at the beginning. "
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Alexander"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Omg, I am really excited after my first order. You guys are amazing! I will come back for sure to place other orders with you because you are simply amazing! Fast delivery and the communication with the provider "
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Dominic"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "I have been reading the reviews before placing the order and it convinced me, as at the beginning I was a bit confused. Indeed, I had a positive experience myself with them and my Instagram followers are growing even after receiving the ones ordered. Amazing!"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Olivia"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Yes, it is worth buying some real Instagram followers! This is my answer if you ask me now. I have a business account on Instagram and I cannot stress enough how much this tool helped me grow. It is really a great start and then more and more followers will follow. "
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Rose"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Not bad at all. Honestly, I already recommended this website to all of my friends, this is how much I like it! After placing the order my Instagram followers already increased significantly. I did it mostly for fun, but now when I see that it is really working, I might place another order"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Stephanie"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "I can’t complain about the service. The delivery was on time and I think the service is really worth the price. I will give them five stars because everything was really as described. "
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Theresa"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "This thing is real! Honestly, in such a short time I had new Instagram followers and my account is wow! Of course, you still need to be super active there and post regularly but it is "
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Kamil"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "I ordered 10k.  The order was completed in 2 days. It is an excellent website for those who want to have many followers.Prices normal."
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Maria Henry"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Came within 5 seconds I recommend!"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "pop"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "got my 40k Instagram followers within a matter of few days. They sent them slowly to avoid any issues with Instagram algo"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "yuri"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Got my 200k followers quickly, it took a few days to finish, but it was worth the wait"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Kris"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Only place to buy 400k instagram followers for this cheap. Awesome work goread.io"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Lucas White"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Had a small issue with my Goread order that was resolved immediately. The transaction was easy, the followers were genuine and engaging, and customer service was fantastic. Very secure service!
+"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Ava Davis"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "There was a minor hiccup with my Goread purchase, but their customer service resolved it quickly. The followers are genuine and active. The process was secure and easy. Highly recommend!
+"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Mason Martinez"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "I found Goread incredibly fast and easy for buying followers. The followers were real and engaged, and the customer service was excellent. The whole process felt secure. Highly recommend!"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Sophia Garcia"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "As an influencer, I loved Goread for its quick and secure transaction. The followers were real and interactive, and the customer service was excellent. Highly recommend it!"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Liam Jones"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Goread provided an easy and secure way to buy followers. The followers were high-quality and engaging, and the customer service was superb. Highly satisfied!"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Olivia Brown"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Using Goread was seamless. The transaction was fast, followers were real and active, and customer service was responsive. The security measures were solid. A great service overall!"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "pankaj saini"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "I love goread.io to provide such free followers pack. It's superfast delivery and free. Woow"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "alexi"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "I've tried other free followers services before, but they always felt spammy and fake. Goread.io's free followers package was different - the followers I received were real people who actually engaged with my content. I was so impressed that I ended up buying more followers from them!"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Julia Klachkov"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "As a small business owner, I'm always looking for ways to increase my social media presence. The free followers package from goread.io was a great way to jumpstart my Instagram following and get my brand in front of more potential customers. I highly recommend giving it a try!"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Jimena"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "I've been using goread.io for a while now to buy followers and likes, so I was thrilled to hear that they were offering a free followers package. The 10 followers I received were just as high-quality as the ones I've purchased in the past, and they really helped me boost my engagement on Instagram."
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Victor"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "If you're looking for a legitimate way to grow your Instagram following, you can't go wrong with goread.io's free followers package. The process was simple and easy, and the followers I received were all genuine and interested in my content. I'm excited to see where this takes my account!"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Emily Johnson"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "I was pleasantly surprised by the quality of the followers I received from goread.io's free package. They were all real people who actually engaged with my posts, which helped me grow my account organically. Thank you!"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Michael Davis"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "I've been struggling to increase my Instagram following for months, but goread.io's free followers package made it so easy. I received 10 high-quality followers who helped me boost my engagement and reach on the platform. I highly recommend this service!"
+				},							{
+					"@type": "Review",
+					"author": {
+						"@type": "Person",
+						"name": "Noah Smith"
+					},
+					"reviewRating": {
+						"@type": "Rating",
+						"ratingValue": "5",
+						"bestRating": "5"
+					},
+					"reviewBody": "Goread made buying followers a breeze. The transaction was quick, the followers were genuine, and the customer service was great. Security was top-notch too. Perfect for influencers!"
+				}						]
+			}
+</script>
+<div class="footer footer_top dark">
+<div class="container m-t-60 m-b-50">
+<div class="row">
+<div class="col-lg-12">
+<div class="site-logo m-b-30">
+<a href="https://goread.io/" class="m-r-20">
+<img class="site-logo-white d-none" src="logoo.png" alt="Webstie logo">
+<img class="site-logo " src="logoo.png" alt="Webstie logo">
+</a>
+<select class="footer-lang-selector ajaxChangeLanguage" name="ids" data-url="https://goread.io/language/set_language/" data-redirect="http://goread.io/buy-instagram-followers?utm_source=google&utm_medium=cpc&utm_campaign=21341965897&utm_content=162886825813&utm_term=goread&gad_source=1&gclid=CjwKCAjwpbi4BhByEiwAMC8JnTeq2YoJvwqEJ83b7qqsZG-mpQmNGnruTLOPBtwf9-qbgGee__O10hoCY4EQAvD_BwE">
+<option value="d23fc1cf32c5a8ea1627e7dba0703381" selected>English</option>
+<option value="dff2f62dd4b525ef58ba8ad8f28b7259">Thai</option>
+</select>
+</div>
+</div>
+<div class="col-lg-8 m-t-30  mt-lg-0">
+<div class="title">Quick Links</div>
+<div class="row">
+<div class="col-6 col-md-3  mt-lg-0">
+<ul class="list-unstyled quick-link mb-0">
+<li><a href="#">Home</a></li>
+<li><a href="#">FAQs</a></li>
+<li><a href="#">Blog</a></li>
+</ul>
+</div>
+<div class="col-6 col-md-3">
+<ul class="list-unstyled quick-link mb-0">
+<li><a href="#">Terms & Conditions</a></li>
+<li><a href="https://api.whatsapp.com/send/?phone=%2B94706801276&text&type=phone_number&app_absent=0">Contact</a></li>
+<li><a href="#">Read Our reviews</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-lg-4 m-t-30 mt-lg-0">
+<div class="title">Contact Information</div>
+<ul class="list-unstyled">
+<li>Tel: +94 706801276 </li>
+<li>E-mail: admin@fastfollowers.net</li>
+<li>Company: Gucios.com </li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer footer_bottom dark">
+<div class="container">
+<div class="row align-items-center flex-row-reverse">
+<div class="col-auto ml-lg-auto">
+<div class="row align-items-center">
+<div class="col-auto">
+<ul class="list-inline mb-0">
+
+</div>
+</div>
+</div>
+<div class="col-12 col-lg-auto mt-3 mt-lg-0 text-center">
+Copyright &#169; 2024 </div>
+</div>
+</div>
+</footer>
+<script>
+// document.addEventListener('contextmenu', event=> event.preventDefault()); 
+      document.onkeydown = function(e) { 
+      if(event.keyCode == 123) { 
+      return false; 
+      } 
+      if(e.ctrlKey && e.shiftKey && e.keyCode == 'I'.charCodeAt(0)){ 
+      return false; 
+      } 
+      if(e.ctrlKey && e.shiftKey && e.keyCode == 'J'.charCodeAt(0)){ 
+      return false; 
+      } 
+      if(e.ctrlKey && e.keyCode == 'U'.charCodeAt(0)){ 
+      return false; 
+      } 
+      } 
+</script>
+<style>
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600');
+.custom-social-proof {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    z-index: 9999999999999 !important;
+    font-family: 'Open Sans', sans-serif;
+    display: none;
+  }
+    .custom-notification {
+        width: 320px;
+        border: 0;
+        text-align: left;
+        z-index: 99999;
+        box-sizing: border-box;
+        font-weight: 400;
+        border-radius: 6px;
+        box-shadow: 2px 2px 10px 2px hsla(0, 4%, 4%, 0.2);
+        background-color: #fff;
+        position: relative;
+        cursor: pointer;
+		}
+        .custom-notification-container {
+            display: flex !important;
+            align-items: center;
+            height: 80px;
+			}
+            .custom-notification-image-wrapper img {
+                    max-height: 75px;
+                    width: 90px;
+                    overflow: hidden;
+                    border-radius: 6px 0 0 6px;
+                    object-fit: cover;
+                
+            }
+            .custom-notification-content-wrapper {
+                margin: 0;
+                height: 100%;
+                color: gray;
+                padding-left: 20px;
+                padding-right: 20px;
+                border-radius: 0 6px 6px 0;
+                flex: 1;
+                display: flex !important;
+                flex-direction: column;
+                justify-content: center;
+				}
+                .custom-notification-content {
+                    font-family: inherit !important;
+                    margin: 0 !important;
+                    padding: 0 !important;
+                    font-size: 12px;
+                    line-height: 16px;
+					}
+                    .custom-notification-content small {
+                        margin-top: 3px !important;
+                        display: block !important;
+                        font-size: 12px !important;
+                        opacity: .8;
+                    }
+                
+        .custom-close {
+            position: absolute;
+            top: 8px;
+            right: 8px;
+            height: 12px;
+            width: 12px;
+            cursor: pointer;
+            transition: .2s ease-in-out;
+			color: #757373;
+            opacity: .8;
+            visibility: visible;
+			}
+           
+        
+        
+			.custom-notification-content a {
+    color: #f3632e!important;
+}
+        
+</style>
+<script>
+$( document ).ready(function() {
+var vars = {};
+vars['html1'] = '<strong>Someone</strong> from United States just bought <a href="https://goread.io/checkout/selectproduct?service=cab48d54a020b520198b627f5716dfd5">100 instagram followers</a><small>about 10 seconds ago</small>';
+vars['html2'] = '<strong>Someone</strong> from Switzerland just bought <a href="https://goread.io/checkout/selectproduct?service=07cdcce3c6ee30be7bb54d5410834a10">300 instagram followers</a><small>about 59 seconds ago</small>';
+vars['html5'] = '<strong>Someone</strong> from Jamaica just bought <a href="https://goread.io/checkout/selectproduct?service=43a06a9050f606d8e9372fbc2993ce5e">500 instagram likes</a><small>about 32 seconds ago</small>';
+vars['html3'] = '<strong>Someone</strong> from Australia just bought <a href="https://goread.io/checkout/selectproduct?service=af83daca2ca56d8117e3ee2d07898161">500 instagram followers</a><small>about 59 seconds ago</small>';
+vars['html8'] = '<strong>Someone</strong> from India just bought <a href="https://goread.io/checkout/selectproduct?service=6a9912ef9bc167ba3294ec397677916d">1000 instagram views</a><small>about 55 seconds ago</small>';
+vars['html4'] = '<strong>Someone</strong> from Sweden just bought <a href="https://goread.io/checkout/selectproduct?service=36b7993e0be5fc8580a098963cd22d7c">1000 instagram followers</a><small>about 42 seconds ago</small>';
+vars['html9'] = '<strong>Someone</strong> from United Kingdom just bought <a href="https://goread.io/checkout/selectproduct?service=119925f90764d94a73d8aac35306009e">5000 instagram views</a><small>about 15 seconds ago</small>';
+vars['html7'] = '<strong>Someone</strong> from Mexico just bought <a href="https://goread.io/checkout/selectproduct?service=9869375be95f6350809cfbc47f7004f4">10000 instagram likes</a><small>about 28 seconds ago</small>';
+vars['html10'] = '<strong>Someone</strong> from Japan just bought <a href="https://goread.io/checkout/selectproduct?service=f40c1bdc43b44567b74c449e31626a9ccheckout/selectproduct?service=f40c1bdc43b44567b74c449e31626a9c">1 million instagram views</a><small>about 37 seconds ago</small>';
+vars['html6'] = '<strong>Someone</strong> from Srilanka just bought <a href="https://goread.io/checkout/selectproduct?service=f47a61591ec6d25ec72cd31f5450a58e">2500 instagram likes</a><small>about 44 seconds ago</small>';
+
+    $('p.custom-notification-content').html(vars['html2']);
+    var pagesToExclude = ['/pay', '/checkout_com/create_payment_onfaliur', '/fluid_pay/pay'];
+    var currentPage = window.location.pathname;
+    if (!pagesToExclude.includes(currentPage)) {
+        if (sessionStorage.getItem("popupClosed") !== "true") {
+            $(".custom-social-proof").show();
+            var intervalId = setInterval(function() { 
+                $('p.custom-notification-content').html(vars['html9']);
+                $(".custom-social-proof").stop().slideToggle('slow');
+            }, 8000);
+        }
+    }
+    
+    $(".custom-close").click(function() {
+        $(".custom-social-proof").stop().slideToggle('slow');
+        clearInterval(intervalId);
+        sessionStorage.setItem("popupClosed", "true");
+    });
+    
+});
+	  
+</script>
+<section class="custom-social-proof">
+<div class="custom-notification">
+<div class="custom-notification-container">
+<div class="custom-notification-image-wrapper">
+<img src="logoo.png">
+</div>
+<div class="custom-notification-content-wrapper">
+<p class="custom-notification-content"><strong>Someone</strong> from United States just bought <a href="https://goread.io/buy-instagram-likes">Instagram Likes - 500</a>
+<small>about 59 seconds ago</small></p>
+</div>
+</div>
+<div class="custom-close">x</div>
+</div>
+</section>
+
+<script src="https://goread.io/assets/plugins/vendors/bootstrap.bundle.min.js"></script>
+<script src="https://goread.io/assets/plugins/vendors/jquery.sparkline.min.js"></script>
+<script src="https://goread.io/assets/plugins/vendors/selectize.min.js"></script>
+<script src="https://goread.io/assets/js/core.js"></script>
+
+<script src="https://goread.io/assets/js/process.js?v=1729059132"></script>
+<script src="https://goread.io/assets/js/general.js"></script>
+<script src="https://goread.io/assets/js/jquery.payform.min.js" charset="utf-8"></script>
+
+<script src="https://goread.io/themes/pergo/assets/plugins/aos/dist/aos.js"></script>
+<script src="https://goread.io/assets/js/nitro_exclude.js?ver=0.9"></script>
+<script>
+    // AOS.init();
+  </script>
+
+<script src="https://goread.io/themes/pergo/assets/js/theme.js"></script>
+<script>
+    $(document).ready(function() {
+
+      $('#select-payments').selectize({
+
+        render: {
+
+          option: function(data, escape) {
+
+            return '<div>' +
+
+              '<span class="image"><img src="' + data.image + '" alt=""></span>' +
+
+              '<span class="title">' + escape(data.text) + '</span>' +
+
+              '</div>';
+
+          },
+
+          item: function(data, escape) {
+
+            return '<div>' +
+
+              '<span class="image"><img src="' + data.image + '" alt=""></span>' +
+
+              escape(data.text) +
+
+              '</div>';
+
+          }
+
+        }
+
+      });
+
+    });
+  </script>
+<script>
+    $(document).ready(function()
+
+      {
+
+
+
+        var theme_color = localStorage.getItem("myVar");
+
+        if (theme_color != "") {
+
+          $('body').addClass(theme_color);
+
+        }
+
+
+
+
+
+        $('#my-switch li a').click(function()
+
+          {
+
+            if ($('body').hasClass('active-dark-mode'))
+
+            {
+
+              localStorage.setItem("myVar", "active-light-mode");
+
+
+
+              if (theme_color = 'active-light-mode')
+
+              {
+
+                $("body").removeClass("active-dark-mode");
+
+                $('body').addClass("active-light-mode");
+
+                $('#my-switch li a').attr('data-theme', 'light');
+
+              }
+
+
+
+            } else if ($('body').hasClass('active-light-mode'))
+
+            {
+
+
+
+              localStorage.setItem("myVar", "active-dark-mode");
+
+
+
+              if (theme_color = 'active-dark-mode')
+
+              {
+
+                $("body").removeClass("active-light-mode");
+
+                $('body').addClass("active-dark-mode");
+
+                $('#my-switch li a').attr('data-theme', 'dark');
+
+              }
+
+
+
+            } else if ($('body').hasClass('gor-user'))
+
+            {
+
+              localStorage.setItem("myVar", "active-dark-mode");
+
+
+
+              if (theme_color = 'active-dark-mode')
+
+              {
+
+                $('body').addClass("active-dark-mode");
+
+                $('#my-switch li a').attr('data-theme', 'dark');
+
+              }
+
+            }
+
+          });
+
+      });
+  </script>
+<script>
+    window.gladlyConfig = {
+      appId: 'pathsocial.com-goread'
+    };
+  </script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N47LGXKH" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NX63C9D" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"NRJS-b955256cde3db8a4ff6","applicationID":"1536184476","transactionName":"ZgQGMENSXEMCUkxbXF9OMRZYHFteB1RAHENZEQ==","queueTime":0,"applicationTime":177,"atts":"SkMFRgtIT00=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
